@@ -1,0 +1,43 @@
+<meta name="description" content="About our quarterly newsletter.">
+<title>Quarterly Newsletter</title>
+<div id="content" class="6u important(collapse)">
+    <header>
+    <h2>Newsletter</h2>
+    <p class="subtitle">Quarterly Fund news</p>
+   	</header>
+    <a href="../docs/newsletter/q315.pdf" target="new" class="image left2"><img src="images/buttons/newsletter.png" /></a><p>Firsthand Technology Value Fund publishes a quarterly newsletter to discuss new portfolio companies, Fund performance, and technology trends. The latest issue includes articles on:</p>
+    <p>
+        <ul class="stylebullets">
+            <li>IntraOp Medical Makes Headlines in UK</li>
+            <li>Share Repurchase Plan Update</li>
+            <li>VuFine Capitalizes on Pokemon Go</li>
+            <li>Wrightspeed and Mack Trucks</li>
+             
+        </ul>
+        </p>
+       <p><a href="../docs/newsletter/q216.pdf" class="button alt" target="new">Download</a></p>
+</div>
+
+
+
+<div id="sidebar2" class="3u">
+	<section>
+    <a class="image featured-alt"><img src="images/sidenav/newsletter.png" /></a>
+     <h3>Past Issues</h3>
+        <ul class="style1">
+        	<li><a href="../docs/newsletter/q116.pdf" target="new">Spring 2016</a></li>
+        	<li><a href="../docs/newsletter/q415.pdf" target="new">Winter 2016</a></li>
+        	<li><a href="../docs/newsletter/q315.pdf" target="new">Fall 2015</a></li>
+        	<li><a href="../docs/newsletter/q215.pdf" target="new">Summer 2015</a></li>
+        	<li><a href="../docs/newsletter/q115.pdf" target="new">Spring 2015</a></li>
+       		<li><a href="../docs/newsletter/q414.pdf" target="new">Winter 2015</a></li>
+        	<li><a href="../docs/newsletter/q314.pdf" target="new">Fall 2014</a></li>
+            <li><a href="../docs/newsletter/q214.pdf" target="new">Summer 2014</a></li>
+            <li><a href="../docs/newsletter/q114.pdf" target="new">Spring 2014</a></li>
+            <li><a href="../docs/newsletter/q413.pdf" target="new">Winter 2014</a></li>
+            <li><a href="../docs/newsletter/q313.pdf" target="new">Fall 2013</a></li>
+            <li><a href="../docs/newsletter/q213.pdf" target="new">Summer 2013</a></li>
+        </ul> 
+        </section>	
+       
+    <!---closing DIV in lay_press--->

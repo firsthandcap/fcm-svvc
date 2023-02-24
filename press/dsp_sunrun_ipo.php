@@ -1,0 +1,24 @@
+<meta name="description" content="Portfolio News">
+<title>Portfolio News</title>
+	<div id="content" class="6u important(collapse)">
+	<header>
+    <h2>Portfolio News</h2>
+    <p class="subtitle">Sunrun Goes Public</p>
+    </header>
+	<p>Sunrun, a Fund holding since 2013, filed its plans to go public through an initial public offering ("IPO") on June 25, 2015, and began trading on August 5 under the ticker symbol "RUN".</p>
+
+<p>The Fund holds 674,820 shares of Sunrun common stock as of March 31, 2015, at an approximate average cost of $9.51 per share. The Fund's shares are subject to a customary 180-day lockup provision.</p>
+
+<p>Sunrun offers "solar-as-a-service" to residential customers. The company enables homeowners to benefit from the lower cost of solar electricity without the upfront expense of purchasing and installing the solar hardware.</p>
+
+<p>Kevin Landis, CEO of Firsthand Technology Value Fund, says: "We have long been big believers in the tremendous potential of the solar industry. We are confident that Sunrun, like SolarCity before it, will continue to validate our strategy of investing in pre-IPO tech companies."</p>
+
+
+
+</div>
+<div id="sidebar2" class="3u">
+	<section>
+        <a class="image featured-alt"><img src="images/logos/portfolio/sunrun.png" /></a>
+    </section>
+<!---closing DIV is in lay file--->   
+

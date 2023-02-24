@@ -1,0 +1,64 @@
+<meta name="description" content="The Fund invests in companies at various stages of maturity.">
+
+<title>Stages of Investment</title>
+<div id="content" class="8u important(collapse)">
+
+    <header><h2>Stages of Investment</h2>
+    <p class="subtitle">Classifying our portfolio</p>
+    </header>
+    <p>The Fund invests in private companies at various stages of maturity. As our portfolio companies mature, they move from the "early/development stage" to the "middle/revenue stage" and then to the "late stage." We expect that this continuous progression may create a pipeline of potential exit opportunities through initial public offerings (IPOs) or acquisitions. The illustration below describes typical characteristics of companies at each stage of maturity and where our current portfolio companies fit within these categories. Information is current as of March 31, 2016.</p>
+   <table class="alt2">
+      <thead>
+          <tr>
+              <th>Early Stage</th>
+              <th>Middle Stage</th>
+              <th>Late Stage</th>
+          </tr>
+      
+      </thead>
+      <tbody> 
+          <tr>
+              <td>Developing product or service for market, high level of research and development, little or no revenue.<!---<br /><br /><strong>Average Valuation:</strong> $10 million<br /><strong>Average Revenue:</strong> $1 million---></td>
+              <td>Established product, customers, business model; limited revenues.<!---<br /><br /><br /><strong>Average Valuation:</strong> $66 million<br /><strong>Average Revenue:</strong> $25 million---></td>
+              <td>Appreciable revenue; may be break-even or profitable; IPO or acquisition candidate.<!---<br /><br /><strong>Average Valuation:</strong> $2.1 billion<br /><strong>Average Revenue:</strong> $336 million---></td>
+          </tr>
+          <tr>
+              <td><a href="index.php?fuseaction=companies.hera" class="info"><img src="images/logos/stages/hera.png" /></a></td>
+              <td><a href="index.php?fuseaction=companies.hightail" class="info"><img src="images/logos/stages/hightail.png" /></a></td> 
+              <td><a href="index.php?fuseaction=companies.cloudera" class="info"><img src="images/logos/stages/cloudera.png" /></a></td>
+              
+          </tr>
+          <tr>
+              <td><a href="index.php?fuseaction=companies.hiku" class="info"><img src="images/logos/stages/hiku.png" /></a></td>
+              <td><a href="index.php?fuseaction=companies.intraop" class="info"><img src="images/logos/stages/intraop.png" /></a></td>
+             <td><a href="index.php?fuseaction=companies.jawbone" class="info"><img src="images/logos/stages/aliph.png" /></a></td>
+          </tr>
+          <tr>
+              <td><a href="index.php?fuseaction=companies.qmat" class="info"><img src="images/logos/stages/qmat.png" /></a></td>
+              <td><a href="index.php?fuseaction=companies.phunware" class="info"><img src="images/logos/stages/phunware.png" /></a></td>
+               <td><a href="index.php?fuseaction=companies.nutanix" class="info"><img src="images/logos/stages/nutanix.png" /></a></td>
+          </tr>
+          <tr>
+              <td><a href="index.php?fuseaction=companies.sigen" class="info"><img src="images/logos/stages/sigen.png" /></a></td>
+              <td><a href="index.php?fuseaction=companies.pivotal" class="info"><img src="images/logos/stages/pivotal.png" /></a></td>
+               <td><a href="index.php?fuseaction=companies.roku" class="info"><img src="images/logos/stages/roku.png" /></a></td>
+          </tr>
+          <tr>
+             <td><a href="index.php?fuseaction=companies.telepathy" class="info"><img src="images/logos/stages/telepathy.png" /></a></td>
+               <td><a href="index.php?fuseaction=companies.uct" class="info"><img src="images/logos/stages/uct.png" /></a></td>
+                           <td><a href="index.php?fuseaction=companies.turn" class="info"><img src="images/logos/stages/turn.png" /></a></td>
+          </tr>
+           <tr>
+             <td><a href="index.php?fuseaction=companies.vufine" class="info"><img src="images/logos/stages/vufine.png" /></a></td>
+            
+             
+                <td><a href="index.php?fuseaction=companies.wrightspeed" class="info"><img src="images/logos/stages/wrightspeed.png" /></a></td>
+                  <td>&nbsp;</td>
+          </tr>
+        
+      </tbody>
+	</table>
+    
+    <!---closing DIV in lay_companies--->
+                
+           

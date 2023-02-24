@@ -1,0 +1,44 @@
+<meta name="description" content="Portfolio holding Tapad specializes in cross-platform advertising technology.">
+<title>Tapad</title>
+
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+	
+    <header>
+    <h2>Tapad, Inc.</h2>
+    <p class="subtitle">5.9% of portfolio as of 12/31/15</p>
+    </header>
+    
+    <p>Tapad addresses one of online advertising's greatest challenges: cross-platform advertising. Its technology allows advertisers to target individual consumers with consistent ads across multiple platforms: PCs, tablets, and smartphones.</p>
+    <p>One of the biggest challenges faced by digital advertisers is the fact that online consumers change devices or screens very frequently. By and large, when a consumer switches devices, advertisers lose track of him or her. In other words, it is nearly impossible to tell what a smartphone user was just shopping for on his laptop. Advertisers love the idea of "retargeting" ads to consumers based on what they have recently shopped or searched for online. Tapad has developed technologies that enable advertisers to anonymously identify individual online consumers, regardless of the device they are using, and serve relevant ads to them.</p>
+    <h3>News</h3> 
+   <p> On February 1, 2016, Telenor, a public Norwegian telecom company with a $24 billion market cap, announced its intention to purchase Tapad for $360 million in cash. Tapad will remain a stand-alone company and Are Traasdahl, the CEO and founder, will remain at the helm. Closing of the transaction is subject to regulatory approval and is currently expected in the first quarter of 2016.</p>
+    <p>Tapad is one of the Fund's largest investments, with a cost basis of approximately $10 million. We currently expect to realize a capital gain on the investment if the proposed transaction is completed on the announced terms. More details will be published as they become available.</p>
+    <p>Tapad's revenue growth has been astounding. In July 2015, the company announced a year-over-year revenue increase of 300% within its cross-device video business. In June 2014 the company announced that 2013 revenues were three times 2012 revenues. Further, the company reported that 2012 revenues were 604% greater than 2011 revenues.</p>
+    <p>On February 1, 2016, Telenor Group announced that it had entered into a definitive agreement to acquire approximately 95% of Tapad, Inc. for approximately $360 million in cash, subject to certain conditions. The transaction is expected to close prior to the end of first quarter 2016.</p>
+    
+    <!---<p class="subheader">Video from Tapad<br /><br /><div id="video"><iframe width="360" height="203" src="//www.youtube.com/embed/5FnJdGtf9CY" frameborder="0" allowfullscreen></iframe></div>--->
+
+</div> 
+   
+<div id="sidebar2" class="3u">
+   <section>    
+      <p><a class="image featured"><img src="images/logos/portfolio/tapad.png" /></a></p>
+      <header><h2>Recent Tapad Blogs</h2></header>
+      <ul class="style1">
+       <li><a href="http://www.tapad.com/tapad-tops-crains-fast-50-list-of-new-yorks-fastest-growing-companies/" target="new">Tapad Tops Crain's 'Fast 50' List of New York's Fastest-Growing Companies</a></li>
+          <li><a href="http://www.tapad.com/cross-device-drives-record-breaking-cyber-week-sales/" target="new">Cross-Device Drives Record Breaking Cyber Week Sales</a></li>
+         
+      </ul> 
+  </section>
+  <section>
+      <header><h2>Connect With Tapad</h2></header>
+      <p><a href="https://www.tapad.com/" target="new">www.tapad.com</a></p>
+      <ul class="social">
+          <li><a href="https://www.facebook.com/tapadinc" target="new"><img src="images/buttons/facebook.png" /></a></li>
+          <li><a href="https://twitter.com/Tapad" target="new"><img src="images/buttons/twitter.png" /></a></li>
+          <li><a href="https://www.youtube.com/user/TheTapTalks" target="new"><img src="images/buttons/youtube.png" /></a></li>
+      </ul>
+  </section>
+<!---closing DIV in lay_companies--->      

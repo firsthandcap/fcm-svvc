@@ -1,0 +1,194 @@
+			<div id="main-wrapper">
+				<div class="container">
+					<div class="row 200%">
+						<!-- Sidebar -->
+							
+								
+                                  <?php 
+								   if ($_SERVER["QUERY_STRING"] == ""){
+									  echo "&nbsp;";
+								  } 	
+								  elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.main"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'>Press Releases</li>
+													<li><a href='index.php?fuseaction=press.news'>Latest News</a></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								  elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.financials"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'>Press Releases</li>
+													<li><a href='index.php?fuseaction=press.news'>Latest News</a></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								  elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.other"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'>Press Releases</li>
+													<li><a href='index.php?fuseaction=press.news'>Latest News</a></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								    elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.distributions"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'>Press Releases</li>
+													<li><a href='index.php?fuseaction=press.news'>Latest News</a></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								    elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.news"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.main'>Press Releases</a></li>
+													 <li class='first'><span class='current'><a href='index.php?fuseaction=press.news'>Latest News</a></span></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								    elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.homepage1"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.main'>Press Releases</a></li>
+													 <li class='first'><span class='current'><a href='index.php?fuseaction=press.news'>Latest News</a></span></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								    elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.nutanix"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.main'>Press Releases</a></li>
+													 <li class='first'><span class='current'><a href='index.php?fuseaction=press.news'>Latest News</a></span></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								    elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.tapad"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.main'>Press Releases</a></li>
+													 <li class='first'><span class='current'><a href='index.php?fuseaction=press.news'>Latest News</a></span></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								    elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.sunrun_ipo"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.main'>Press Releases</a></li>
+													 <li class='first'><span class='current'><a href='index.php?fuseaction=press.news'>Latest News</a></span></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								   elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.vufine"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.main'>Press Releases</a></li>
+													 <li class='first'><span class='current'><a href='index.php?fuseaction=press.news'>Latest News</a></span></li>
+														
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								
+								   elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.shareholder_letter"){
+									  echo "<div id='sidebar' class='4u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.main'>Press Releases</a></li>
+													<li><a href='index.php?fuseaction=press.news'>Latest News</a></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								
+								  elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.newsletter"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.news'>Press Releases</a></li>
+													<li><a href='index.php?fuseaction=press.news'>Latest News</a></li>
+													
+													<li>Newsletter</li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>
+												
+												 <section>
+												  <header><h2>Download Adobe Reader</h2></header>
+												  <ul class='style1-alt2'>
+													  <li>The newsletter requires free Adobe Reader software to download.<br /><br /><br />
+													  <a href='http://www.adobe.com/products/reader.html' target='new'><img class='align-center' src='images/buttons/get_adobe.png' /></a></li>
+												  </ul> 
+												  <p><a href='../docs/newsletter/q315.pdf' target='new'><img src='images/buttons/newsletter.png' class='align-center' /></a></p>
+											  </section>  ";
+								  }
+								    elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.meeting"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.news'>Press Releases</a></li>
+													<li><a href='index.php?fuseaction=press.news'>Latest News</a></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li><a href='index.php?fuseaction=press.email'>E-Mail Alerts</a></li>
+												</ul>";
+								  }
+								   elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.email"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.main'>Press Releases</a></li>
+													<li><a href='index.php?fuseaction=press.news'>Latest News</a></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li>E-Mail Alerts</li>
+												</ul>";
+								  }
+								     elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.shareholder_letter_2016"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.main'>Press Releases</a></li>
+													<li><a href='index.php?fuseaction=press.news'>Latest News</a></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li>E-Mail Alerts</li>
+												</ul>";
+								  }
+								   elseif ($_SERVER["QUERY_STRING"] == "fuseaction=press.confirm_email"){
+									  echo "<div id='sidebar' class='3u'><section>
+												  <ul class='style1'>
+													<li class='first'><a href='index.php?fuseaction=press.main'>Press Releases</a></li>
+													<li><a href='index.php?fuseaction=press.news'>Latest News</a></li>
+													
+													<li><a href='index.php?fuseaction=press.newsletter'>Newsletter</a></li>
+													<li>E-Mail Alerts</li>
+												</ul>";
+								  }
+									else {
+									  echo "Press";
+								  }
+								  ?>    
+								</section>
+							</div>
+							
+								<?php print trim($Fusebox["layout"]); ?>
+							</div>
+						</div>
+					</div>
+
+			</div>

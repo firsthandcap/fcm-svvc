@@ -1,0 +1,47 @@
+<meta name="description" content="How to contact us">
+<title>Contact Us</title>
+<div id="content" class="6u important(collapse)">
+
+	<header>
+    <h2>Contact Us</h2>
+    <p class="subtitle">Three ways to get in touch</p>
+    </header>
+    <section>
+      <div class="row">
+            <div class="4u">
+                <section>
+                    <a class="image featured"><img src="images/contact/phone.png" alt=""></a><span class="title">Phone</span>
+                    <p>Call us at (408) 886-7096. Please direct media inquiries to (212) 207-9452.</p>
+                </section>
+            </div>
+            <div class="4u">
+                <section>
+                    <a class="image featured"><img src="images/contact/email.png" alt=""></a><span class="title">E-Mail</span>
+                    <p>Send us an e-mail. We'd love to hear from you!</p>
+                    <a href="mailto:vc@firsthandtvf.com" class="button special small">Send E-Mail</a>
+                </section>
+            </div>
+            <div class="4u">
+                <section>
+                    <a class="image featured"><img src="images/contact/mail.png" alt=""></a><span class="title">Regular Mail</span>
+                    <p>Firsthand Technology Value Fund, Inc.<br />
+150 Almaden Blvd.<br />
+Suite 1250<br />
+San Jose, CA 95113</p>
+                </section>
+            </div>
+       </div>     
+    </section>
+    </div> 
+    <div id="sidebar2" class="3u">
+        <section>
+            <header>
+            <h2>Stay Connected</h2>
+            </header>
+             <ul class="style1-alt2">
+            	<li>Subscribe to our alert e-mail and stay up-to-date on Fund news, including quarterly NAV releases.</li>
+            <a href="index.php?fuseaction=press.email" class="button">Read more</a></ul>
+        </section>
+	</div>
+  </div>  
+ 

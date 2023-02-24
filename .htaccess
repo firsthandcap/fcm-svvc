@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTP_PORT} 80 [OR]
+RewriteCond %{HTTP_HOST} ^www\.firsthandtvf\.com$ [NC]
+RewriteRule ^(.*)$ https://firsthandtvf.com/$1 [R=301,L]

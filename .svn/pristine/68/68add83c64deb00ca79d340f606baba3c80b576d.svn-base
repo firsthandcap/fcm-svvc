@@ -1,0 +1,126 @@
+<meta name="description" content="Latest Fund news">
+<title>Latest News</title>
+	<div id="content" class="6u important(collapse)">
+	<header>
+    <h2>News</h2>
+    <p class="subtitle">Latest news</p>
+	</header>
+  
+     <div class="table-wrapper">
+          				
+        <table class="alt">
+        	<thead>
+            <tr>
+            	<th>Date</th>
+                <th>Title</th>
+            </tr>
+            </thead>
+            <tbody>
+             <tr>
+              	<td>09/30/16</td>
+              	<td><a href="../docs/press_093016.pdf" target="new">Firsthand Technology Value Fund Portfolio Company Nutanix Goes Public
+</a></td>
+              </tr>
+            <tr>
+              	<td>08/25/16</td>
+              	<td><a href="../docs/press_082516.pdf" target="new">Firsthand Technology Value Fund to Present at Liolios Gateway Conference on September 8th</a></td>
+              </tr>
+             <tr>
+              	<td>04/29/16</td>
+              	<td><a href="../docs/press_042916.pdf" target="new">Firsthand Technology Value Fund Announces Completion of Tapad Sale</a></td>
+              </tr>
+            <tr>
+              	<td>04/27/16</td>
+              	<td><a href="../docs/press_042716.pdf" target="new">Firsthand Technology Value Fund Adopts Share Repurchase Plan</a></td>
+              </tr>
+			  <tr>
+              	<td>04/21/16</td>
+              	<td><a href="../docs/press_042116.pdf" target="new">Wrightspeed Announces $30 Million Order from NZ Bus</a></td>
+              </tr>
+              <tr>
+              	<td>03/15/16</td>
+              	<td><a href="index.php?fuseaction=press.shareholder_letter">Kevin Landis reviews the Fund's 2015 performance and achievements</a></td>
+              </tr>   
+              <tr>
+              	<td>02/01/16</td>
+              	<td><a href="index.php?fuseaction=press.tapad">Tapad to be acqcuired by Norwegian telecom giant Telenor for $360 million</a></td>
+              </tr>   
+ 			
+              <tr>
+              	<td>12/22/15</td>
+              	<td><a href="index.php?fuseaction=press.nutanix">Nutanix plans to go public in 2016</a></td>
+              </tr>              
+              <tr>
+              	<td>09/09/15</td>
+              	<td><a href="http://finance.yahoo.com/news/seethruequity-initiates-coverage-firsthand-technology-130000294.html" target="new">SeeThruEquity Initiates Coverage of SVVC</a></td>
+              </tr> 
+               <tr>
+              	<td>08/25/15</td>
+              	<td><a href="http://www.forbes.com/sites/ilyapozin/2015/08/25/5-innovative-ad-tech-companies-you-should-know-about/" target="new">Tapad Named Leader in Cross-Device Advertising</a></td>
+              </tr> 
+            <tr>
+              	<td>08/05/15</td>
+              	<td><a href="index.php?fuseaction=press.sunrun_ipo">Sunrun Goes Public</a></td>
+              </tr> 
+            <tr>
+              	<td>08/12/15</td>
+              	<td><a href="http://www.inc.com/profile/pivotal-systems" target="new">Pivotal Named to Inc. 500 List of Fastest-Growing Private Companies</a></td>
+              </tr> 
+           
+               <tr>
+              	<td>05/31/15</td>
+              	<td><a href="http://www.beet.tv/2015/05/tapad.html" target="new">Tapad Raises $18 Million to Expand Licensing and Products </a></td>
+              </tr>  
+          <!--- <tr>
+              	<td>03/18/15</td>
+              	<td><a href="http://www.wsj.com/articles/solar-energy-company-sunrun-preparing-for-potential-ipo-1426708019" target="new">Sunrun Preparing for Potential IPO</a></td>
+              </tr>  
+             <tr>
+              	<td>01/20/15</td>
+              	<td><a href="http://www.prnewswire.com/news-releases/electric-powertrain-manufacturer-wrightspeed-moves-to-alameda-point-300022370.html" target="new">Wrightspeed on the Move</a></td>
+              </tr>   
+              <tr>
+              	<td>12/02/14</td>
+              	<td><a href="http://www.tapad.com/nielsen-study-finds-tapads-device-connections-91-2-percent-accurate/" target="new">Nielsen Confirms Tapad Cross-Device Accuracy at 91.2%</a></td>
+              </tr>
+              <tr>
+              	<td>12/14/14</td>
+              	<td><a href="http://globenewswire.com/news-release/2012/12/14/511749/10015776/en/Pivotal-Systems-Raises-4-6-Million-in-Funding-to-Meet-Growing-Global-Demand-for-Revolutionary-Gas-Flow-Controller-GFC-Product.html" target="new">Pivotal Systems Raises $4.6 Million in Funding</a></td>
+              </tr>        
+              <tr>
+              	<td>01/08/15</td>
+              	<td><a href="http://www.bloomberg.com/news/articles/2015-01-08/investec-arranges-195-million-in-financing-for-sunrun-solar" target="new">Sunrun Secures $195 Million to Fund New Solar Installations</a></td>
+              </tr>  
+              <tr>
+              	<td>11/06/14</td>
+              	<td><a href="http://bits.blogs.nytimes.com/2014/11/06/jawbone-up3-band-takes-tracking-to-the-extreme/?_r=0" target="new">Jawbone Announces New Wearables</a></td>
+              </tr>
+              <tr>
+              	<td>09/30/14</td>
+              	<td><a href="http://www.wired.com/2014/09/fedex-wrightspeed-diesel-ev-trucks/" target="new">FedEx's New Electric Trucks Get a Boost From Diesel Turbines</a></td>
+              </tr> 
+              <tr>
+             	 <td>09/17/14</td>
+             	 <td><a href="http://www.phunware.com/news/phunware-dells-fall-class-of-founders-50/" target="new">Phunware in Dell's Fall Class of Founders 50</a></td>
+              </tr>  
+              <tr>
+             	 <td>08/24/14</td>
+              	<td><a href="http://www.nytimes.com/2014/08/25/technology/box-dropbox-and-hightail-pivot-to-new-business-models.html?_r=0" target="new">Box, Dropbox and Hightail Pivot to New Business Models</a></td>
+              </tr>--->
+            </tbody>	
+        </table>    
+	</div>
+</div>	
+ <div id="sidebar2" class="3u">
+    <section>
+        <a class="image featured-alt"><img src="images/sidenav/news2.png" /></a>
+        <header><h2>Other Press Releases</h2></header>
+        <ul class="style1">
+            <li><a href="index.php?fuseaction=press.other">Other Fund News</a></li>
+            <li><a href="index.php?fuseaction=press.main">Portfolio Holdings</a></li>
+            <li><a href="index.php?fuseaction=press.financials">Quarterly NAV</a></li>
+        </ul> 
+    </section>
+      <!---final <DIV> in lay_press file--->
+            
+            

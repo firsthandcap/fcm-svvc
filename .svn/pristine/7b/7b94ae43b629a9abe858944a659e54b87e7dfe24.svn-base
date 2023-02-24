@@ -1,0 +1,16 @@
+<meta name="description" content="About Firsthand Technology Value Fund">
+<title>About Firsthand Technology Value Fund</title>
+    <header>
+    <h2>About Firsthand</h2>
+    </header>
+    <p class="subtitle">A venture fund in the heart of Silicon Valley</p>
+	<p>Firsthand Technology Value Fund, Inc. is a publicly traded venture capital fund that provides private technology and cleantech companies with venture funding and working capital, primarily in the form of equity investments. The Fund invests in companies in various stages of maturity with the goal of achieving profitable exits via IPO or acquisition. Our successful exits have included <a href="index.php?fuseaction=companies.facebook_exit">Facebook</a> (NASDAQ: FB), <a href="index.php?fuseaction=companies.twitter_exit">Twitter</a> (NYSE: TWTR), <a href="index.php?fuseaction=companies.solarcity_exit">SolarCity</a> (NASDAQ: SCTY), <a href="index.php?fuseaction=companies.yelp_exit">Yelp</a> (NYSE: YELP), and <a href="index.php?fuseaction=companies.tapad_exit">Tapad</a> (acquisition by Telenor).</p>
+	<p>We are a Maryland corporation and are registered with the SEC as a business development company under the Investment Company Act of 1940. This provides the company with certain structural advantages, including public liquidity and a beneficial tax structure.</p>
+	<p>Firsthand Capital Management, Inc. provides investment management services to us. Firsthand is led by Kevin Landis, a seasoned technology and cleantech investor with more than 25 years of experience in technology and investment management.</p>
+    </div>
+<div id="sidebar2" class="3u">
+	<section>
+        <a class="image featured-alt"><img src="images/sidenav/aboutfund.png" /></a>
+        <p class="callout">Firsthand's team has been responsible for over $300 million of investments in more than 40 private companies since 1998.</p>
+    </section>
+<!---closing DIV is in lay file--->   

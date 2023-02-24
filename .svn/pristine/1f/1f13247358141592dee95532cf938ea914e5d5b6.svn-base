@@ -1,0 +1,38 @@
+<meta name="description" content="Portfolio holding IntraOp developed the Mobetron, an IOERT delivery system.">
+<title>IntraOp</title>
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+	
+		<header>
+        <h2>IntraOp Medical Corp.</h2>
+        <p class="subtitle">19.2% of portfolio as of 12/31/16</p>
+        </header>
+
+        <p>IntraOp is a late-stage private company that has developed a revolutionary medical device called the Mobetron, which utilizes linear accelerator technology to deliver electron-based Intraoperative Radiation Therapy (IORT) for the treatment of certain types of cancers. </p>
+        <p><img src="images/companies/intraop1.png" /></p>
+        <p>Electron IORT has several benefits over conventional post-operative x-ray radiation therapy, including a shorter treatment cycle, a lower overall dose of radiation, fewer side effects, lower recurrence rates, and less damage to surrounding tissues. Significantly, the Mobetron is the only device of its kind that can be used in the operating room itself, eliminating the need to transport the patient during surgery to a neighboring shielded "bunker" to administer the electron IORT, which lowers the cost and the risk of infection. The Mobetron is currently in use at the Cleveland Clinic, the Mayo Clinic, Stanford University Medical Center, the University of California at San Francisco, University Hospitals Case Medical Center, and dozens of other locations in the U.S. and worldwide. IntraOp received U.S. Food and Drug Administration (FDA) approval for the Mobetron in 1998, and in 2013 Medicare approved reimbursement for electron IORT. </p>
+       <p> In late 2015, IntraOp announced that more that 15,000 patients have been treated with the Mobetron since its introduction in 1995. In November 2016, the company announced significant advances in the treatment of pancreatic cancer with IORT, which you can read more about <a href="http://www.prweb.com/releases/iort/electron/prweb13811241.htm" target="new">here</a>.</p>
+ <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRerfUZDo1Q" frameborder="0" allowfullscreen></iframe>
+</p>
+
+</div> 
+
+
+<div id="sidebar2" class="3u">
+  <section>
+      <p><a class="image featured"><img src="images/logos/portfolio/intraop.png" /></a></p>
+      <header><h2>Connect With Intraop</h2></header>
+      <ul class="style1">
+          <li class="first"><a href="http://www.intraop.com/" target="new">www.intraop.com</a></li>
+      </ul>
+      <ul class="social">
+          <li><a href="https://twitter.com/IntraOp_Medical" target="new"><img src="images/buttons/twitter.png" /></a>
+         </li>
+           <li><a href="https://www.youtube.com/channel/UCTnhSOs6qJh8skt-RFSZMvg" target="new"><img src="images/buttons/youtube.png" /></a></li>
+      </ul>  
+       <p><img src="images/companies/intraop2.png" />  </p>
+    
+   </section>  
+<!---closing DIV in lay_companies--->

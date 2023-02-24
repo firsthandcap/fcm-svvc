@@ -1,0 +1,148 @@
+<?php
+/*
+<fusedoc fuse="fbx_Switch.php">
+	<responsibilities>
+		I am the switch statement that handles the fuseaction, delegating work to various fuses.
+	</responsibilities>
+	<io>
+		<in>
+			<string name="$Fusebox['fuseaction']" />
+			<string name="$Fusebox['circuit']" />
+		</in>
+	</io>	
+</fusedoc>
+*/
+
+switch($Fusebox["fuseaction"]) {
+
+	case "exits":
+		include("dsp_exits.php");
+		break;			
+	case "facebook_exit":
+		include("dsp_facebook_exit.php");
+		break;		
+	case "gilt_exit":
+		include("dsp_gilt_exit.php");
+		break;	
+	case "hera":
+		include("dsp_hera.php");
+		break;	
+	case "mattson_exit":
+		include("dsp_mattson_exit.php");
+		break;		
+	case "cloudera":
+		include("dsp_cloudera.php");
+		break;	
+	case "eqx":
+		include("dsp_eqx.php");
+		break;	
+	case "explore":
+		include("dsp_explore.php");
+		break;	
+	case "vufine":
+		include("dsp_vufine.php");
+		break;	
+	case "hightail":
+		include("dsp_hightail.php");
+		break;	
+	case "hiku":
+		include("dsp_hiku.php");
+		break;	
+	case "innovion":
+		include("dsp_innovion.php");
+		break;
+	case "innovion_exit":
+		include("dsp_innovion_exit.php");
+		break;			
+	case "intevac":
+		include("dsp_intevac.php");
+		break;	
+	case "intraop":
+		include("dsp_intraop.php");
+		break;	
+	case "jawbone":
+		include("dsp_jawbone.php");
+		break;
+	case "mattson":
+		include("dsp_mattson.php");
+		break;
+	case "newsletter":
+		include("dsp_newsletter.php");
+		break;
+	case "nutanix":
+		include("dsp_nutanix.php");
+		break;	
+	case "nutanix_exit":
+		include("dsp_nutanix_exit.php");
+		break;		
+	case "phunware":
+		include("dsp_phunware.php");
+		break;	
+	case "pivotal":
+		include("dsp_pivotal.php");
+		break;	
+	case "purestorage":
+		include("dsp_purestorage.php");
+		break;		
+	case "purestorage_exit":
+		include("dsp_purestorage_exit.php");
+		break;			
+	case "qmat":
+		include("dsp_qmat.php");
+		break;	
+	case "roku":
+		include("dsp_roku.php");
+		break;			
+	case "sigen":
+		include("dsp_sigen.php");
+		break;	
+	case "soi":
+		include("dsp_soi.php");
+		break;
+	case "solarcity_exit":
+		include("dsp_solarcity_exit.php");
+		break;	
+	case "stages":
+		include("dsp_stages.php");
+		break;
+	case "sunrun":
+		include("dsp_sunrun.php");
+		break;	
+	case "sunrun_exit":
+		include("dsp_sunrun_exit.php");
+		break;	
+	case "tapad_exit":
+		include("dsp_tapad_exit.php");
+		break;	
+	case "telepathy":
+		include("dsp_telepathy.php");
+		break;	
+	case "top5":
+		include("dsp_top5.php");
+		break;	
+	case "turn":
+		include("dsp_turn.php");
+		break;	
+	case "twitter_exit":
+		include("dsp_twitter_exit.php");
+		break;			
+	case "uct":
+		include("dsp_uct.php");
+		break;	
+	case "wrightspeed":
+		include("dsp_wrightspeed.php");
+		break;
+	case "yelp_exit":
+		include("dsp_yelp_exit.php");
+		break;	
+
+	case "main":
+	case "Fusebox.defaultFuseaction":
+		include("dsp_main.php");
+		break;
+	default:
+		print "I received a fuseaction called <b>'" . $Fusebox["fuseaction"] . "'</b> that circuit <b>'" . $Fusebox["circuit"] . "'</b> does not have a handler for.";
+		break;
+}
+
+?>

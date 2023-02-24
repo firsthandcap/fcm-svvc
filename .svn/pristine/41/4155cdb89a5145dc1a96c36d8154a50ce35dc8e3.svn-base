@@ -1,0 +1,19 @@
+<meta name="description" content="How to place a trade in your Firsthand Technology Value Fund account">
+<title>How to Place a Trade</title>
+<div id="content" class="8u important(collapse)">
+	<header>
+    <h2>Trades</h2>
+    <p class="subtitle">Buying and selling Fund shares</p>
+    </header>
+
+    <h3>Purchasing Shares</h3>
+    <p>Shares of SVVC trade on the Nasdaq Stock Market and may be purchased by calling most brokers, such as Schwab, e*Trade, TD Ameritrade, etc. Share purchases may not be made directly through the Fund or Computershare.</p>
+    
+    <h3>Selling Shares</h3>
+    <p>If you hold shares directly through the Fund, please call <strong>1.800.331.1710</strong>. There is a transaction fee of $15, plus 12 cents per share, for sell orders. If you hold shares through a broker, please contact your broker to sell shares. Computershare can accept limit orders for the sale of shares for investors who hold shares directly with the Fund.</p>
+    
+    <h3>Limit Orders</h3>
+    <p class="main">Because the price of a closed-end fund fluctuates throughout the trading day, limit orders are often used when buying and selling closed-end funds on the secondary market. A limit order is one in which you place a limit on the amount you are willing to pay or receive for buying or selling a share.</p>
+
+    <p>If a closed-end fund's current share price is $30, for example, and you wish to sell your shares, you may place the sell order with a lower limit of $29 on your selling price. This means that your broker will only sell your shares if he can get $29 or more per share in the open market. If no buyer is willing to pay that price, the order will not be filled. Similarly, if you wish to purchase shares of a closed-end fund, you may wish to enter an upper limit. So, continuing with the current example, you might decide on a $32 upper limit on a purchase order, which means that if your broker can find the shares for $32 or less, he will fill the order; otherwise the order will not be filled.</p>
+</div>

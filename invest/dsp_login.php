@@ -1,0 +1,24 @@
+<meta name="description" content="Accessing your Firsthand Technology Value Fund account online">
+<title>Online Account Access</title>
+<div id="content" class="6u important(collapse)">  
+    <header>
+   	 	<h2>Account Access</h2>
+    	<p class="subtitle">Accessing your account online</p>
+ 	</header>   
+    <p>Your Firsthand Technology Value Fund account is serviced by Computershare (formerly BNY Mellon). Your account can be accessed via Computershare's Investor Centre&trade; <a href="http://www.computershare-na.com/bnym_cef/" target="new">website</a>.</p>
+       
+    <p>If you have previously visited the Investor Centre website and created your Investor Centre ID, you may log in after selecting the Firsthand logo from the main <a href="http://www.computershare-na.com/bnym_cef/" target="new">Computershare</a> screen. If you do not yet have an Investor Centre ID, you will need to register as a new user by following a few simple online instructions.</p>
+        
+    <p>Please call a Shareholder Services representative at 1.800.331.1710 with any questions about online account access.</p>
+    
+</div>    
+<div id="sidebar2" class="3u">
+    <section>
+        <a class="image featured-alt"><img src="images/sidenav/login.png" /></a>
+        <ul class="style1">
+            <li><p>Sign Up</p><a href="http://www.computershare-na.com/bnym_cef/" target="new">Register for account access</a></li>
+            <li><p>Login to My Account</p><a href="http://www.computershare-na.com/bnym_cef/" target="new">Access your online account</a></li>
+            <li><p>Questions?</p><a href="index.php?fuseaction=general.main">Call us at 1.800.331.1710</a></li>
+        </ul> 
+    </section>
+</div>    

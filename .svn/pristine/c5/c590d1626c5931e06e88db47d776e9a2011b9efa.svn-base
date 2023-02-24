@@ -1,0 +1,19 @@
+<meta name="description" content="Legal Notices">
+<title>Legal Notices</title>
+<div id="content" class="8u important(collapse)">
+
+	<header>
+    <h2>Legal Notices</h2>
+    <p></p>
+    </header>    
+    <p>This website should not be considered a solicitation or offering of shares of any of the Firsthand Funds to investors residing outside the United States. The Firsthand Funds are offered by prospectus only. The prospectus contains more complete information on any of the Firsthand Funds, including management fees, risks and expenses. Read it carefully before investing or sending money. If you have any questions, please contact us at 408.886.7096 or send an e-mail to <a href="mailto:info@firsthandcapital.com">info@firsthandcapital.com</a>.</p>
+    
+    <p>The information in this website is for U.S. residents only. Firsthand Technology Value Fund, Inc. is registered only in the U.S. and the information on this website does not constitute an offer to sell, or a solicitation of an offer to purchase, any of the Funds to persons outside of the United States.</p>
+   
+    <h3>Copyright Notice</h3>
+    
+    <p>The contents of this site on the Internet are protected by applicable copyright laws. No permission is granted to copy, distribute, modify, post or frame any text, graphics, video, audio, software code, or user interface design or logos without express written consent.</p>
+    
+    <p>ALL INFORMATION AND CONTENT ON THE FIRSTHAND TECHNOLOGY VALUE FUND, INC. WEBSITE IS SUBJECT TO APPLICABLE STATUTES AND REGULATIONS, FURNISHED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.</p>
+
+</div>

@@ -1,0 +1,20 @@
+<meta name="description" content="Portfolio News">
+<title>Portfolio News</title>
+	<div id="content" class="6u important(collapse)">
+	<header>
+    <h2>Portfolio News</h2>
+    <p class="subtitle">Nutanix Files S-1</p>
+    </header>
+	
+	<p><a href="index.php?fuseaction=companies.nutanix">Nutanix</a> filed its S-1 as it prepares to go public early in 2016. The company intends to list its shares on the NASDAQ Global Select Market under the ticker symbol NTNX.</p>
+    <p>The Fund holds 227,272 shares of Nutanix common stock as of September 30, 2015, at an approximate average cost of $17.60 per share. The Fund's shares are subject to a customary 180-day lockup provision.</p>
+    
+    <p>Nutanix is a provider of so-called "hyperconverged" data center equipment that merges computing, storage, and networking capabilities in a single piece of equipment. The company's products offer corporate customers access to technologies similar to those used by Google, Amazon, and Facebook in their own data centers. The company's many customers include: AT&T, Best Buy, ebay, Honda, New York Life, PWC, and the U.S. Army.</p>
+
+
+</div>
+<div id="sidebar2" class="3u">
+	<section>
+        <a class="image featured-alt"><img src="images/logos/portfolio/nutanix.png" /></a>
+    </section>
+<!---closing DIV is in lay file--->   

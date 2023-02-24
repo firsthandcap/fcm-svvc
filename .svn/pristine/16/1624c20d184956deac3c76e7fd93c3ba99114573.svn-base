@@ -1,0 +1,39 @@
+<meta name="description" content="Fund performance history">
+<title>Firsthand Technology Value Fund Performance</title>
+<div id="content" class="6u important(collapse)">
+	<header>
+    <h2>Firsthand Technology Value Fund</h2>
+    <p class="subtitle">Performance / Q1 '16</p>
+   	</header>
+    
+    <div class="chart"><script src="http://markets.financialcontent.com/firsthand?Module=stockquote&Output=JS"></script></div>
+	
+	<!---<p>Firsthand Technology Value Fund had positive returns in terms of net asset value (NAV) but a significant decline in market price for the second quarter of 2015. The Fund's total return for Q2 2015, based on NAV, was -1.49%, compared with 1.72% for Q1 2015. The Fund's total return for Q2 2015, based on the market price of its stock, was -10.04%, compared with -23.11% for Q1 2015. Historical returns are shown below.</p>--->
+
+
+	<h3>Total Returns As of 3/31/16</h3>
+
+    <h4><img src="images/misc/nav.png" />Net Asset Value &nbsp;&nbsp;&nbsp; <img src="images/misc/mp.png" />Market Price</h4>
+    <ul class="style5">
+        <li><img src="images/fund/performance.png" style="width:95%;"/></li>
+    </ul>
+     <ol class="style1">
+        <li>Period from inception (4/18/11) through 12/31/11. Initial market price is IPO price of $27.01. All performance information reflects past performance, is presented on a total return basis, and reflects the reinvestment of distributions. Past performance is no guarantee of future results.</li>
+        <li>Assumes reinvestment of all distributions.</li>
+         <li>Period from 12/31/15 through 3/31/16.</li>
+        
+     </ol>   
+<!--- Period from 12/31/13 through 9/30/14. ---> 
+
+</div> 
+<div id="sidebar2" class="3u">
+    <section>
+        <header>
+        <h2>Stay Connected</h2>
+        </header>
+         <ul class="style1-alt2">
+            <li>Subscribe to our alert e-mail and stay up-to-date on Fund news, including quarterly NAV releases.</li>
+        <a href="index.php?fuseaction=press.email" class="button">Read more</a></ul>
+    </section>
+</div>
+    

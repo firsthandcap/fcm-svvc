@@ -1,0 +1,20 @@
+<meta name="description" content="Portfolio News">
+<title>Portfolio News</title>
+<div id="content" class="6u important(collapse)">
+	<header>
+    <h2>Portfolio News</h2>
+    <p class="subtitle">Vufine reaches Kickstarter goal for its wearable display</p>
+    </header>
+	<p><a href="index.php?fuseaction=companies.vufine">Vufine</a> launched a Kickstarter campaign on June 22, 2015, with the goal of raising $50,000 to bring its wearable display to market. It met that goal in less than a week. Vufine's wearable display is not a computer, so there is no camera and no operating system, keeping the device affordable at $149.</p>
+
+<p>Vufine attaches to a wide variety of glasses using a magnetic connector and plugs in to a multitude of devices with a special, thin HDMI cable. Vufine is an extension of user technology, not a replacement&#151;think of it like real-life picture-in-picture that allows consumers to enjoy the functionality of their favorite technology in a new way.</p>
+
+<p>Vufine successfully completed its <a href="https://www.kickstarter.com/projects/1991375881/vufine-a-handsfree-wearable-display" target="new">Kickstarter campaign</a> on August 22, 2015, raising $241,111. </p>
+
+
+</div>
+<div id="sidebar2" class="3u">
+	<section>
+        <a class="image featured-alt"><img src="images/logos/portfolio/vufine.png" /></a>
+    </section>
+<!---closing DIV is in lay file--->   

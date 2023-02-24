@@ -1,0 +1,72 @@
+<meta name="description" content="Top 5 holdings">
+<title>Top 5 Holdings</title>
+<div id="content" class="6u important(collapse)">
+
+    <h2>Top 5 Holdings</h2>
+    <p class="subtitle">As of December 31, 2016</p>		
+     <div class="table-wrapper">
+								
+        <table class="alt">
+        	<thead>
+            <tr>
+            	<th>Position</th>
+                <th>Company</th>
+                <th>% Preliminary Net Assets*</th>
+            </tr>
+            </thead>
+            <tbody> 
+            <tr>
+            	<td>1.</td>
+            	<td><a href="index.php?fuseaction=companies.intraop">IntraOp Medical Corp.</a></td>
+                <td>19.1%</td>	
+            </tr>
+            <tr> 
+            	<td>2.</td>
+            	<td><a href="index.php?fuseaction=companies.pivotal">Pivotal Systems, Inc.</a></td>
+                <td>16.6%</td>	
+            </tr>
+              <tr> 
+            	<td>3.</td>
+            	<td><a href="index.php?fuseaction=companies.nutanix">QMAT, Inc.</a></td>
+                <td>8.8%</td>	
+            </tr>
+            
+             <tr> 
+            	<td>4.</td>
+                <td><a href="index.php?fuseaction=companies.nutanix_exit">Nutanix, Inc.</a></td>
+                <td>7.4%</td>	
+            </tr>
+             <tr> 
+            	<td>5.</td>
+            	<td><a href="index.php?fuseaction=companies.wrightspeed">Wrightspeed, Inc.</a></td>
+                <td>7.0%</td>	
+            </tr>
+          
+            </tbody>
+   		</table>     
+   </div>        
+   
+         <p></p>
+       
+
+        <h3>Additional Information</h3>
+      
+      
+      <p>The Fund's preliminary net assets as of December 31, 2016 also include cash of approximately $0.26 per share. As of that date, the Fund's top five holdings constituted 58.9% of the Fund's preliminary net assets. Complete financial statements and a detailed schedule of investments will be made available with the Fund's annual report filing on <a href="index.php?fuseaction=about.filings">Form 10-K</a> in March 2017.</p>
+  
+
+<h4>*The Fund's annual audit for fiscal year 2016 is in progress and has not been completed. To the extent there are adjustments as a result of the audit, the adjusted NAV for December 31, 2016 will be published in the Fund's annual report. The Fund currently has no knowledge that there is any material audit adjustment that may require publishing an adjusted December 31, 2016 NAV. </h4>
+
+</div>
+
+     <div id="sidebar2" class="3u">
+    	<section>
+            <a class="image featured-alt"><img src="images/sidenav/email.png" /></a>
+           <header><h2>Stay Connected</h2></header>
+            <ul class="style1">
+                <li class="first"><p><a href="index.php?fuseaction=press.email">Subscribe to our alert e-mail and stay up-to-date on Fund news, including monthly top holdings releases.</a></p></li>
+            </ul> 
+            <a href="index.php?fuseaction=press.email" class="button alt">Sign Up</a>
+        </section>
+<!---closing DIV in lay_companies--->
+

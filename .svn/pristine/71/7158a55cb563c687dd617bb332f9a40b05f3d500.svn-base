@@ -1,0 +1,39 @@
+<meta name="description" content="Portfolio holding Phunware is a mobile app developer.">
+<title>Phunware</title>
+
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+
+    <header>
+    <h2>Phunware, Inc.</h2>
+    <p class="subtitle">4.2% of portfolio as of 6/30/16</p>
+    </header>
+    
+    <p>Phunware is a mobile app developer and a pioneer of Multiscreen as a Service (MaaS) &mdash; a mobile services platform that enables clients to interact with customers and manage their brand across multiple screens and devices.</p>
+    
+    <p>With the explosion in mobile computing, companies need ways to reach their target audiences on any device &mdash; not just on PCs but on cellphones and tablets as well. Mobile ad spending is estimated to reach $72 billion by 2017, and spending on mobile services is expected to hit $32 billion by 2018. That creates a tremendous market opportunity for a company like Phunware that offers both an integrated MaaS platform and development of applications to run on those multiple devices. Phunware is providing multiscreen infrastructure and application development for many well-known customers, including NASCAR, the WWE, ESPN, E! Entertainment, NBC Sports, Warner Brothers, and AT&amp;T.</p>
+   <!--- <p class="subheader">Video from Phunware<br /><br /><div id="video"><iframe width="360" height="203" src="//www.youtube.com/embed/2tyW5tQf9Wg?list=UUXKjvLH0QqRJRNaNReqWaig" frameborder="0" allowfullscreen></iframe></div>--->
+       
+</div> 
+   
+<div id="sidebar2" class="3u">
+  <section>    
+      <p><a class="image featured"><img src="images/logos/portfolio/phunware.png" /></a></p>
+      <h2>Recent Phunware Blogs</h2> 
+      <ul class="style1">
+          <li><a href="http://www.phunware.com/blog/diving-into-virtual-reality-ux/" target="new">Diving Into Virtual Reality</a></li>
+          <li><a href="http://www.phunware.com/blog/insights-from-pokemon-go/" target="new">Collecting Insights from Pok&eacute;mon GO</a></li>
+      </ul> 
+  </section>
+  <section>
+      <header><h2>Connect With Phunware</h2></header>
+      <p><a href="https://www.phunware.com/" target="new">www.phunware.com</a></p>
+      <ul class="social">
+          <li><a href="https://www.facebook.com/phunware" target="new"><img src="images/buttons/facebook.png" /></a></li>
+          <li><a href="https://twitter.com/phunware" target="new"><img src="images/buttons/twitter.png" /></a></li>
+          <li><a href="https://www.youtube.com/user/Phunware" target="new"><img src="images/buttons/youtube.png" /></a></li>
+      </ul>
+  </section>
+   
+<!---closing DIV in lay_companies--->

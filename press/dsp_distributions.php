@@ -1,0 +1,63 @@
+<meta name="description" content="Distribution press releases">
+<title>Fund Filings</title>
+<div id="content" class="6u important(collapse)">
+	<header>
+    <h2>Press Releases</h2>
+    <p class="subtitle">Distributions</p>
+	</header>	
+    <div class="table-wrapper">
+        <table class="alt">
+        	<thead>
+              <tr>
+                  <th>Date</th>
+                  <th>Title</th>
+              </tr>
+            </thead>
+            <tbody> 
+			  <tr>
+              <td>11/20/18</td>
+              <td><a href="../docs/press_112018.pdf" target="new">Firsthand Technology Value Fund Announces Spillback Distribution of $0.034226 Per Share</a></td
+              </tr>   
+			
+			
+              <tr>
+              <td>11/24/14</td>
+              <td><a href="../docs/press_112414.pdf" target="new">Firsthand Technology Value Fund Announces Year-end Distribution of $2.86156 Per Share</a></td>
+              </tr>   
+                  
+              <tr>
+              <td>10/20/14</td>
+              <td><a href="../docs/press_102014.pdf" target="new">Firsthand Technology Value Fund Announces Distribution of $2.998210 Per Share</a></td>
+              </tr>
+                       
+              <tr>
+              <td>12/02/13</td>
+              <td><a href="../docs/press_120213.pdf" target="new">Firsthand Technology Value Fund Announces Distribution of $0.317276 Per Share</a></td>
+              </tr>
+              
+            </tbody>	
+        </table>    
+	</div>
+</div>	 
+<div id="sidebar2" class="3u">
+    <section>
+        <a class="image featured-alt"><img src="images/sidenav/distribution.png" /></a>
+        <header><h2>Other Press Releases</h2></header>
+        <ul class="style1">
+            <li><a href="index.php?fuseaction=press.other">Other Fund News</a></li>
+            <li><a href="index.php?fuseaction=press.main">Portfolio Holdings</a></li>
+            <li><a href="index.php?fuseaction=press.financials">Quarterly NAV</a></li>
+        </ul> 
+    </section>	
+    <section>
+        <header><h2>Download Adobe Reader</h2></header>
+        <ul class="style1-alt2">
+            <li>The newsletter requires free Adobe Reader software to download.<br /><br /><br />
+            <a href="http://www.adobe.com/products/reader.html" target="new"><img class="align-center" src="images/buttons/get_adobe.png" /></a></li>
+        </ul> 
+    </section>    
+      <!---final <DIV> in lay_press file--->
+            
+            
+            
+            

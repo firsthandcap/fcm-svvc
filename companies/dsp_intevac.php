@@ -1,0 +1,25 @@
+<meta name="description" content="Portfolio holding Intevac is an advanced equipment manufacturer.">
+<title>Intevac</title>
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+	
+		<header>
+        <h2>Intevac, Inc.</h2>
+        <p class="subtitle">0.9% of portfolio as of 12/31/16</p>
+        </header>
+        
+        <p>Intevac (Nasdaq: IVAC) is a micro-cap public company that provides advanced equipment and products to the hard disk drive, solar, and photonics industries. Its photonics division develops technology for digital night vision and long-range target identification as well as precision instruments for materials identification. Its equipment business is centered around magnetic media processing systems.</p>
+       <!--- <p class="subheader">Video from Intevac<br /><br /><div id="video"><iframe width="360" height="203" src="//www.youtube.com/embed/Ho9l-vLOfTM" frameborder="0" allowfullscreen></iframe></div>--->
+   
+</div> 
+   
+<div id="sidebar2" class="3u">
+  <section>
+      <p><a class="image featured"><img src="images/logos/portfolio/intevac.png" /></a></p>
+      <header><h2>Connect With Intevac</h2></header>
+      <ul class="style1">
+          <li class="first"><a href="http://www.intevac.com" target="new">www.intevac.com</a></li>
+      </ul>    
+   </section>  
+<!---closing DIV in lay_companies--->

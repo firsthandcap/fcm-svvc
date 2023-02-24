@@ -1,0 +1,39 @@
+<meta name="description" content="Portfolio holding Turn is an advertising technologies company.">
+<title>Turn</title>
+
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+	
+		<header>
+        <h2>Turn, Inc.</h2>
+        <p class="subtitle">5.6% of portfolio as of 3/31/16</p>
+        </header>
+        <p>Turn, the largest independent company in the advertising technology sector and a recognized leader in platform-based mobile, video, display and Facebook advertising, is a late-stage private company that provides online advertising technology to Fortune 1000 marketers and their agencies. The company's software enables advertisers to engage in so-called "programmatic advertising," which is a term used to describe the purchase of digital advertising using computers, as opposed to human ad buyers and salespeople. Turn's advertising platform allows its customers to manage audience data, execute digital advertising campaigns, and track their effectiveness.</p> 
+<p>The programmatic advertising market, is a large and growing segment of the digital advertising market of which it is a subset. According to research firm eMarketer, the programmatic ad market reached $15.4 billion in 2015, and is forecast to grow to $26.8 billion by 2017.  It represented 59% of the digital display ad market in 2015 and is expected to grow to 72% of the market in 2017.
+</p>
+        
+       <div id="video"><iframe width="550" height="309" src="https://www.youtube.com/embed/kfGqTUtpl9k?showinfo=0" frameborder="0" allowfullscreen></iframe></div>
+        
+</div> 
+   
+<div id="sidebar2" class="3u">
+   <section>    
+      <p><a class="image featured"><img src="images/logos/portfolio/turn.png" /></a></p>
+      <header><h2>Recent Turn Blogs</h2></header> 
+
+      <ul class="style1">
+          <li><a href="http://www.turn.com/blog/the-power-of-cross-device-advertiser-sees-95-sales-lift" target="new">The Power of Cross-Device</a></li>
+          <li><a href="http://www.turn.com/blog/how-were-making-video-better-for-brand-marketers" target="new">Making Video Better for Brand Marketers</a></li>
+      </ul> 
+  </section>
+  <section>
+      <header><h2>Connect With Turn</h2></header>
+      <p><a href="https://www.turn.com/" target="new">www.turn.com</a></p>
+      <ul class="social">
+          <li><a href="https://www.facebook.com/TurnInc" target="new"><img src="images/buttons/facebook.png" /></a></li>
+          <li><a href="https://twitter.com/TurnPlatform" target="new"><img src="images/buttons/twitter.png" /></a></li>
+          <li><a href="https://www.youtube.com/user/ldiazish" target="new"><img src="images/buttons/youtube.png" /></a></li>
+      </ul>
+  </section>   
+<!---closing DIV in lay_companies--->

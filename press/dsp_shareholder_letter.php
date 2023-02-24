@@ -1,0 +1,56 @@
+<meta name="description" content="2015 Letter to Shareholders">
+<title>Letter to Shareholders</title>
+	<div id="content" class="8u important(collapse)">
+	<header>
+    <h2>2015 Annual Shareholder Letter</h2>
+    <p class="subtitle">Dear Fellow Shareholders,</p>
+   	</header>
+    
+
+<p>A year ago in this space I discussed the profitable exits from Facebook  and Twitter that SVVC achieved in 2014. By comparison, 2015 was relatively quiet. I'm disappointed to report that the Fund's net asset value declined by 6.94% during the year, accompanied by a steep (56.19%) decline in our market price. See pages 40-50 of the <a href="../docs/form_10k_031516.pdf">Annual Report</a> for the Fund's detailed financial information.</p>
+
+<p>While two of our companies, Sunrun and Pure Storage, completed IPOs during the year, our pre-IPO shares were subject to a lock-up throughout 2015. For SVVC, 2015 is perhaps best described as a re-loading year, as we re-deployed the capital that came back into the Fund as a result of the liquidation of our Facebook and Twitter investments.</p>
+
+<h3>A Spark from Late-Stage Companies</h3>
+<p>As a result of our Facebook and Twitter exits in late 2014, the portfolio had less exposure to late-stage private companies in early 2015 than we were comfortable with. Generally, we strive to maintain a diversified portfolio of early-, middle-, and late-stage companies in order to achieve exits on a consistent basis. In order to increase our exposure to late-stage companies, we made new investments in Cloudera, Nutanix, Pure Storage, and Roku during 2015. In addition to the Sunrun  and Pure Storage IPOs already mentioned, Nutanix has filed its Form S-1 in preparation to go public.</p>  
+
+<p>Roku's video streaming devices continue to lead the market in the United States. Research firm Park Associates reported during the year that Roku was not only the best-selling video streaming device in the U.S., but the most-used device in the category as well. More recently, Roku announced that more than one million Roku-powered smart TVs have been sold in the U.S. since entering the market in 2014. The company recently completed another round of private funding, which we hope will set the stage for an IPO in the not-too-distant future.</p>
+
+<p>Mattson Technologies announced late in the year that it has entered into a definitive agreement to merge with Beijing E-town Dragon Semiconductor Industry Investment Center ("E-town Dragon"). Under the agreement, E-town Dragon will acquire all of the outstanding shares of Mattson for $3.80 per share in cash. The transaction is subject to approval by Mattson's stockholders, and is expected to close in the first quarter of 2016. </p>
+
+<p>Some of our late-stage companies struggled during the year as well. Since going public in August 2015, Sunrun has experienced dramatic volatility in its stock, trading in a range from $6.36 to $14.95 per share in its first 6 months as a public company. Although the company's installations and revenues continue to grow at a healthy pace, uncertainty surrounding both energy costs and the regulatory environment continue to haunt the stock.</p>
+
+<p>Pure Storage has also had a rough ride in the stock market since going public in October 2015. After a lackluster IPO, in which the stock closed below its IPO price on its first day of trading, the company's stock recovered after Dell's acquisition of EMC was announced. Later, it suffered following an earnings miss by competitor Nimble Storage, before bouncing back with Pure Storage's earnings beat. </p>
+
+<p>Finally, it has been reported that Jawbone (a.k.a., Aliphcom) laid off 15% of its workforce in Q4 2015. In an increasingly crowded wearables market, Jawbone appears to be struggling to keep pace with competitors including Fitbit, Garmin, and Apple.</p> 
+
+<h3>Milestones for Middle-Stage Companies</h3>
+<p>A number of our middle-stage companies achieved public recognition in 2015. Pivotal Systems and Phunware were both named to Red Herring's list of the Top 100 private companies in North America in June. Pivotal was later named one of Inc. Magazine's Top 500 fastest-growing private companies, posting three-year revenue growth of 1,522%. </p>
+
+<p>Advertising technology company Tapad continued to report significant growth. Annual revenue increased 70% in 2015 and the company announced during the year that revenues for its cross-device video business had grown 300% year-over-year, and now make up 20% of Tapad's total revenues. In the fourth quarter alone, the company's video revenues grew 91% on a quarter-over-quarter basis. We are pleased to report that in February 2016, Tapad announced that it is being acquired by Norwegian telecom company Telenor for $360 million in cash. As I write this, we anticipate a healthy realized gain if this proposed transaction closes on the announced terms.</p>
+
+<p>After a management change and aggressive cost-cutting efforts in 2014, Hightail has reported that it is now profitable. New CEO (and co-founder) Ranjith Kumaran led the company away from the commodity file-sharing market inhabited by Box, Dropbox, Amazon, and Google. Instead, Kumaran has re-focused the company on the creative professional market segment, and its latest service offering, Hightail Spaces, reflects that focus. The goal of Hightail Spaces is to replace e-mail as the collaboration app of choice for visual files.</p>
+ 
+<p>In November, IntraOp Medical announced that more than 15,000 patients worldwide have now been treated with the company's Mobetron device. Earlier in the year, a leading industry journal, Radiation Oncology, published the results of a clinical study of Japanese cancer patients treated with Mobetron. The results of the 5-year study of 32 breast cancer patients showed that there were zero instances of recurrence or metastasis.  It is tricky to draw too many conclusions from 32 patients, but zero is a great number.We remain very excited about the prospects for IntraOp and are working diligently with management to increase the visibility of the company's technology. </p>
+
+<h3>Excitement in Early-Stage Investments</h3>
+<p>Several of our most recent investments have been in early-stage companies. Despite their relative youth, some are already in the news.In July, Vufine completed a successful Kickstarter campaign for its high-definition, wearable display, which we see as a lower-cost, more focused solution than Google Glass. After setting a goal of raising $50,000 in 30 days, the company ended up bringing in $241,111 from 1,466 backers.</p> 
+
+<p>In November, Hiku announced its second-generation grocery scanner and integration with both Walmart and Peapod to enable shoppers to use the device to place orders directly with these merchants' online grocery services. We began investing in Hiku in September 2014 and are excited that this small company is already making waves in the grocery business.</p>
+
+<p>Late in the year, Hera Systems announced plans to launch nine high-resolution imaging satellites in 2016. The company subsequently announced that it has entered into a licensing agreement with NASA Ames Research Center, which will enable Hera to speed development of its next-generation spacecraft. The company is targeting government and enterprise customers with its full-color imaging and video capability.</p>
+
+<h3>The Road Ahead</h3>
+<p>As you are probably aware, the maturing of a typical private technology company takes many years. It took Sunrun nearly 9 years to get to IPO from its founding in January 2007. In between the time of investment and an exit, the hard work of guiding each company through the process of growth dominates our efforts. Challenges being tackled often include fundraising, arranging strategic partnerships, developing go-to-market strategies, and attracting and retaining top talent. While the results of these efforts are not usually reflected in a steadily climbing valuation, progress is quietly being made nonetheless.</p>
+
+<p>All of this is to say that not every year will be loaded with profitable exits. There will be good years, there will be quiet years, and there will be not-so-good years. In hindsight, 2015 was a quiet year. Venture investing requires patience, but as we survey our portfolio, we are encouraged by the number of pending exits in the pipeline and look forward to a good year in 2016.</p>
+
+<p>While we are very excited about the prospects of our portfolio companies, our enthusiasm is clearly not shared by the market, judging by SVVC's persistent discount to NAV. I believe the market is grossly misjudging the value of our portfolio, and I have put my money where my mouth is. I personally made a significant investment in SVVC stock during 2015, and anticipate being a buyer in 2016 as well. We continue to examine and consider other ways to deliver value to shareholders and will do what we think is best for the long-term investors in our fund.</p>
+
+<p>Finally, we wish to thank you for entrusting your investment dollars to us. We believe the future is bright, and we're working hard every day to make good investments in some of the most exciting technology companies in the world. </p>
+
+	<p>Sincerely,<br />
+Kevin Landis<br />
+CEO and President<br />
+Firsthand Technology Value Fund, Inc.</p>
+</div>     

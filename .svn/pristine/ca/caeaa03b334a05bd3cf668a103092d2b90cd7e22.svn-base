@@ -1,0 +1,40 @@
+<meta name="description" content="Portfolio holding Jawbone develops activity-tracking wristbands.">
+<title>Jawbone</title>
+
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+	
+    <header>
+    <h2>Jawbone, Inc.</h2>
+    <p class="subtitle">0.7% of portfolio as of 3/31/16</p>
+    </header>
+        
+    <p>Jawbone is a late-stage private company in San Francisco that rose to prominence several years ago based on its popular Bluetooth headsets for cell phones. Today, it develops wearable activity-tracking wristbands and portable wireless speakers, while remaining a leader in the Bluetooth headset market. We see tremendous opportunity in the wearable activity-tracking device market, as consumers look to improve their health by monitoring their movement, sleep, and eating habits.</p>
+    
+    <p>The Jawbone UP is a wristband and app that tracks how you sleep, move, and eat. The UP app allows users to visualize activity data, share information with friends, and discover connections between their activities and how they feel. The health and wellness market is gigantic; the U.S. weight loss market alone has been estimated at more than $60 billion. The Jawbone UP is a wonderful tool that helps users gather information to improve health-related decision-making.</p>
+    
+     <p>The company recently introduced several new products, including the UP MOVE&trade;, UP2&trade;, UP3&trade;, and UP4&trade;. UP MOVE is a clip-on activity/sleep tracker, while UP2, UP3, and UP4 are activity/sleep tracking wristbands. The UP3 adds heart rate monitoring to the UP2's features, while the UP4 includes heart rate monitoring and mobile payment capabilities with American Express.</p>
+</div> 
+   
+<div id="sidebar2" class="3u">
+    <section>   
+      <p><a class="image featured"><img src="images/logos/portfolio/aliph.png" /></a></p>
+        <header>
+        <h2>Recent Jawbone Blogs</h2> 
+        </header>
+        <ul class="style1">
+         <li><a href="https://jawbone.com/blog/magic-behavior-change/" target="new">The Magic of Behavior Change</a></li>
+         <li><a href="https://jawbone.com/blog/set-healthy-goals/" target="new">How to Set Healthy Goals</a></li>
+      </ul> 
+  </section>
+  <section>
+      <header><h2>Connect With Jawbone</h2></header>
+      <p><a href="http://www.jawbone.com/" target="new">www.jawbone.com</a></p>
+      <ul class="social">
+          <li><a href="https://www.facebook.com/jawbone" target="new"><img src="images/buttons/facebook.png" /></a></li>
+          <li><a href="https://twitter.com/jawbone" target="new"><img src="images/buttons/twitter.png" /></a></li>
+          <li><a href="https://www.youtube.com/channel/UCBJ1FUqJJD5JAXa1Qlnt5dw" target="new"><img src="images/buttons/youtube.png" /></a></li>
+      </ul>
+  </section>
+<!---closing DIV in lay_fund--->

@@ -1,0 +1,30 @@
+<meta name="description" content="Portfolio holding Vufine develops wearable technology.">
+<title>Vufine, Inc.</title>
+
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+	
+    <header>
+    <h2>Vufine, Inc.</h2>
+    <p class="subtitle">1.4% of portfolio as of 3/31/16</p>
+    </header>
+        
+    <p>Vufine, Inc. is developing a wearable high definition display that clips on to existing eyewear. The device enables users to have a heads-up display that connects to iOS, Android, and GoPro devices. The company completed a successful Kickstarter campaign in July 2015, raising more than $240,000 to launch its wearable display.</p>
+    
+   
+</div> 
+   
+<div id="sidebar2" class="3u">
+  <section>   
+      <p><a class="image featured"><img src="images/logos/portfolio/vufine.png" /></a></p>
+  </section>    
+  <section>
+      <header><h2>Connect With Vufine</h2></header>
+      <p><a href="http://vufine.com/" target="new">vufine.com</a></p>
+      <ul class="social">
+          <li><a href="https://www.facebook.com/vufine" target="new"><img src="images/buttons/facebook.png" /></a></li>
+          <li><a href="https://twitter.com/vufine" target="new"><img src="images/buttons/twitter.png" /></a></li></a></li>
+      </ul>
+  </section>
+<!---closing DIV in lay_fund--->

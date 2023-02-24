@@ -1,0 +1,217 @@
+<meta name="description" content="The Fund has had four IPOs and one acquisition since its inception in 2011.">
+<title>Porfolio Exits</title>
+
+<div id="content" class="8u important(collapse)">
+									
+<h2>Portfolio at a Glance</h2> 											
+<p class="subtitle">As of 6/30/16</p>	
+
+	
+ 					
+<table id="myTable" class="tablesorter"> 
+  <thead> 
+    <tr> 
+        <th>COMPANY</th> 
+        <th>%OF NET ASSETS</th>
+        <th>INDUSTRY</th> 
+        <th>SHARES</th> 
+        <th>COST BASIS</th> 
+        <th>FAIR VALUE</th> 
+    </tr> 
+  </thead> 
+  <tbody> 
+    <tr>
+        <td><a href="index.php?fuseaction=companies.jawbone">ALIPHCOM, INC.</a></td>
+        <td>0.6%</td>
+        <td>Consumer Electronics</td>
+        <td>2,128,005</td>
+        <td>$10,108,024</td>
+        <td>$1,058,257</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.cloudera">CLOUDERA, INC.</a></td>
+        <td>0.4%</td>
+        <td>Software</td>
+        <td>20,000</td>
+        <td>580,000</td>
+        <td>603,432</td>
+    </tr>    
+     <tr>
+        <td><a href="index.php?fuseaction=companies.eqx">EQX CAPITAL, INC.</a></td>
+        <td>1.2%</td>
+        <td>Equipment Leasing</td>
+        <td>2,100,000</td>
+        <td>2,020,000</td>
+        <td>2,020,000</td>
+    </tr>    
+     <tr>
+        <td><a href="index.php?fuseaction=companies.hera">HERA SYSTEMS, INC.</a></td>
+        <td>0.4%</td>
+        <td>Aerospace</td>
+        <td>3,642,324</td>
+        <td>2,000,000</td>
+        <td>697,505</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.hightail">HIGHTAIL, INC.</a></td>
+        <td>5.2%</td>
+        <td>Cloud Computing</td>
+        <td>2,268,602</td>
+        <td>9,932,738</td>
+        <td>8,588,927</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.hiku">HIKU LABS, INC.</a></td>
+        <td>1.4%</td>
+        <td>Consumer Electronics</td>
+        <td>3,280,191</td>
+        <td>2,124,074</td>
+        <td>2,280,061</td>
+    </tr>    
+    <tr>
+        <td>INTEVAC, INC.</td>
+        <td>0.8%</td>
+        <td>Other Electronics</td>
+        <td>243,883</td>
+        <td>2,721,734</td>
+        <td>1,385,256</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.intraop">INTRAOP MEDICAL CORP. (1)</a></td>
+        <td>16.1%</td>
+        <td>Medical Devices</td>
+        <td>30,856,187</td>
+        <td>30,299,938</td>
+        <td>26,655,879</td>
+    </tr>    
+    <tr>
+        <td>INVENSENSE, INC.</td>
+        <td>1.5%</td>
+        <td>Semiconductors</td>
+        <td>400,000</td>
+        <td>6,380,014</td>
+        <td>2,452,000</td>
+    </tr>    
+   
+    <tr>
+        <td><a href="index.php?fuseaction=companies.nutanix">NUTANIX, INC.</a></td>
+        <td>3.1%</td>
+        <td>Networking</td>
+        <td>227,272</td>
+        <td>3,999,987</td>
+        <td>5,092,256</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.phunware">PHUNWARE, INC.</a></td>
+        <td>4.2%</td>
+        <td>Mobile Computing</td>
+        <td>3,257,328</td>
+        <td>9,999,997</td>
+        <td>6,995,763</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.pivotal">PIVOTAL SYSTEMS CORP. (2)(3)</a></td>
+        <td>15.5%</td>
+        <td>Semiconductor Equipment</td>
+        <td>46,832,290</td>
+        <td>16,360,494</td>
+        <td>25,572,002</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.purestorage">PURE STORAGE, INC.</a></td>
+        <td>0.1%</td>
+        <td>Computer Storage</td>
+        <td>14,000</td>
+        <td>336,000</td>
+        <td>152,600</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.qmat">QMAT, INC. (2)</a></td>
+        <td>10.0%</td>
+        <td>Advanced Materials</td>
+        <td>18,000,240</td>
+        <td>16,000,240</td>
+        <td>16,599,840</td>
+    </tr>  
+      <tr>
+        <td><a href="index.php?fuseaction=companies.roku">ROKU, INC.</a></td>
+        <td>1.0%</td>
+        <td>Consumer Electronics</td>
+        <td>1,500,000</td>
+        <td>2,312,500</td>
+        <td>1,713,750</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.sigen">SILICON GENESIS CORP. (2)</a></td>
+        <td>4.6%</td>
+        <td>Intellectual Property</td>
+        <td>65,719,286</td>
+        <td>13,827,716</td>
+        <td>7,665,895</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.sunrun_exit">SUNRUN, INC.</a></td>
+        <td>2.4%</td>
+        <td>Renewable Energy</td>
+        <td>674,820</td>
+        <td>6,417,495</td>
+        <td>4,001,683</td>
+    </tr>    
+     <tr>
+        <td><a href="index.php?fuseaction=companies.telepathy">TELEPATHY INVESTORS, INC. (3)</a></td>
+        <td>4.0%</td>
+        <td>Consumer Electronics</td>
+        <td>18,188,000</td>
+        <td>6,949,999</td>
+        <td>6,669,596</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.turn">TURN INC. (5)</a></td>
+        <td>6.0%</td>
+        <td>Advertising Technology</td>
+        <td>2,357,922</td>
+        <td>15,559,367</td>
+        <td>9,834,364</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.uct">UCT COATINGS, INC. (2)</a></td>
+        <td>0.2%</td>
+        <td>Advanced Materials</td>
+        <td>1,502,283</td>
+        <td>662,302</td>
+        <td>325,353</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.vufine">VUFINE, INC.</a></td>
+        <td>1.4%</td>
+        <td>Consumer Electronics</td>
+        <td>23,250,000</td>
+        <td>2,265,000</td>
+        <td>2,271,675</td>
+    </tr>    
+    <tr>
+        <td><a href="index.php?fuseaction=companies.wrightspeed">WRIGHTSPEED, INC.</a></td>
+        <td>7.8%</td>
+        <td>Automotive</td>
+        <td>3,819,451</td>
+        <td>11,898,906</td>
+        <td>12,904,758</td>
+    </tr>    
+    <tr>
+        <td>EXCHANGE TRADED FUNDS</td>
+        <td>5.8%</td>
+        <td></td>
+        <td>151,600</td>
+        <td>9,653,568</td>
+        <td>9,654,095</td>
+    </tr>    
+  </tbody>
+</table>
+<ol class="style1">
+	<li>The Fund also holds IntraOp notes with combined par value of $4,000,000, which are included in cost basis, shares, and fair value.</li>
+	<li>The Fund also holds warrants, which are included in shares and fair value.</li>
+    <li>The Fund also holds Pivotal notes with a combined par value of $1,381,102, which are included in cost basis, shares, and fair value.</li>
+	<li>The Fund also holds Telepathy notes with combined par value of $2,950,000, which are included in cost basis, shares, and fair value.</li>
+    <li>The Fund also holds Turn notes with a combined par value of $559,360, which are included in cost basis, shares, and fair value.</li>
+</ol>
+<!---closing DIV in lay_fund---> 

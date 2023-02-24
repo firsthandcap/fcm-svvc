@@ -1,0 +1,82 @@
+<meta name="description" content="Top 5 holdings">
+<title>Top 5 Holdings</title>
+<div id="content" class="6u important(collapse)">
+
+    <h2>Top 5 Holdings</h2>
+    <p class="subtitle">As of February 28, 2017</p>		
+     <div class="table-wrapper">
+								
+        <table class="alt">
+        	<thead>
+            <tr>
+            	<th>Position</th>
+                <th>Company</th>
+                <th>% Estimated Net Assets*</th>
+            </tr>
+            </thead>
+            <tbody> 
+            <tr>
+            	<td>1.</td>
+            	<td><a href="index.php?fuseaction=companies.intraop">IntraOp Medical Corp.</a></td>
+                <td>20.2%</td>	
+            </tr>
+            <tr> 
+            	<td>2.</td>
+            	<td><a href="index.php?fuseaction=companies.pivotal">Pivotal Systems, Inc.</a></td>
+                <td>16.4%</td>	
+            </tr>
+              <tr> 
+            	<td>3.</td>
+            	<td><a href="index.php?fuseaction=companies.nutanix">QMAT, Inc.</a></td>
+                <td>8.7%</td>	
+            </tr>
+            
+             <tr> 
+            	<td>4.</td>
+                <td><a href="index.php?fuseaction=companies.nutanix_exit">Nutanix, Inc.</a></td>
+                <td>8.2%</td>	
+            </tr>
+             <tr> 
+            	<td>5.</td>
+            	<td><a href="index.php?fuseaction=companies.wrightspeed">Wrightspeed, Inc.</a></td>
+                <td>7.0%</td>	
+            </tr>
+          
+            </tbody>
+   		</table>     
+   </div>        
+   
+         <p></p>
+       
+
+        <h3>Additional Information</h3>
+      
+      
+      <p>The Fund also announced that, as of February 28, 2017, estimated net assets of the Fund were
+approximately $151 million, or $20.30 per share, including cash of approximately $0.11 per
+share. As of that date, the Fund's top five holdings constituted 60.6% of the Fund's estimated net
+assets.* Complete financial statements and a detailed schedule of investments as of December 31,
+2016, are available in the Fund's annual report filing on <a href="index.php?fuseaction=about.filings">Form 10-K</a>.</p>
+  
+
+<h4>*Estimated net assets as of February 28, 2017, represent net assets of approximately $149 million as of
+December 31, 2016, plus the net change in unrealized appreciation/depreciation and realized gains/losses
+on publicly traded and private securities since December 31, 2016. For the purposes of calculating the
+percentage of net assets represented by each investment, the value of each holding is determined by the
+most recent of: (1) the purchase price, (2) the market value for public securities, less any discounts taken
+due to restrictions on the stock, or (3) the December 31, 2016, fair value of each security, as determined
+under procedures approved by our Board of Directors.</h4>
+
+</div>
+
+     <div id="sidebar2" class="3u">
+    	<section>
+            <a class="image featured-alt"><img src="images/sidenav/email.png" /></a>
+           <header><h2>Stay Connected</h2></header>
+            <ul class="style1">
+                <li class="first"><p><a href="index.php?fuseaction=press.email">Subscribe to our alert e-mail and stay up-to-date on Fund news, including monthly top holdings releases.</a></p></li>
+            </ul> 
+            <a href="index.php?fuseaction=press.email" class="button alt">Sign Up</a>
+        </section>
+<!---closing DIV in lay_companies--->
+

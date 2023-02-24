@@ -1,0 +1,86 @@
+<meta name="description" content="The Fund has had four IPOs and one acquisition since its inception in 2011.">
+<title>Porfolio Exits</title>
+
+<div id="content" class="6u important(collapse)">
+									
+<h2>IPOs/Exits</h2> 											
+<p class="subtitle">Successful IPOs and exits since 2011</p>						
+
+	<section>
+      <div class="row">
+            <div class="4u">
+                <section>
+                 <a href="index.php?fuseaction=companies.facebook_exit" class="image featured"><img src="images/logos/portfolio/facebook.png" alt=""></a>
+                   
+                </section>
+            </div>
+             <div class="4u">
+                <section>
+                 <a href="index.php?fuseaction=companies.gilt_exit" class="image featured"><img src="images/logos/portfolio/gilt.png" alt=""></a>
+                    
+                </section>
+            </div>
+            <div class="4u">
+                <section>
+                 <a href="index.php?fuseaction=companies.innovion_exit" class="image featured"><img src="images/logos/portfolio/innovion.png" alt=""></a>
+                    
+                </section>
+            </div>
+         
+            
+        </div>   
+      <div class="row"> 
+                <div class="4u">
+                <section>
+                 <a href="index.php?fuseaction=companies.purestorage_exit" class="image featured"><img src="images/logos/portfolio/purestorage.png" alt=""></a>
+                  
+                </section>
+            </div>
+             <div class="4u">
+                <section>
+                 <a href="index.php?fuseaction=companies.solarcity_exit" class="image featured"><img src="images/logos/portfolio/solarcity.png" alt=""></a>
+                  
+                </section>
+            </div>
+            <div class="4u">
+                <section>
+                 <a href="index.php?fuseaction=companies.sunrun_exit" class="image featured"><img src="images/logos/portfolio/sunrun.png" alt=""></a>
+                   
+                </section>
+            </div>
+            
+            
+             <div class="row"> 
+             
+            
+            <div class="4u">
+                <section>
+                 <a href="index.php?fuseaction=companies.tapad_exit" class="image featured"><img src="images/logos/portfolio/tapad.png" alt=""></a>
+                   
+                </section>
+            </div><div class="4u">
+                <section>
+                 <a href="index.php?fuseaction=companies.twitter_exit" class="image featured"><img src="images/logos/portfolio/twitter.png" alt=""></a>
+                   
+                </section>
+            </div>
+            <div class="4u">
+                <section>
+                 <a href="index.php?fuseaction=companies.yelp_exit" class="image featured"><img src="images/logos/portfolio/yelp.png" alt=""></a>
+                  
+                </section>
+            </div>
+           
+        </div>
+      </section>
+</div>   
+<div id="sidebar2" class="3u">
+  <section>
+      <a class="image featured-alt"><img src="images/sidenav/email.png" /></a>
+      <header><h2>Stay Connected</h2></header>
+      <ul class="style1">
+          <li class="first"><p><a href="index.php?fuseaction=press.email">Subscribe to our alert e-mail and stay up-to-date on Fund news, including NAV and top holdings releases.</a></p></li>
+      </ul> 
+      <a href="index.php?fuseaction=press.email" class="button alt">Sign Up</a>
+  </section>
+<!---closing DIV in lay_fund---> 

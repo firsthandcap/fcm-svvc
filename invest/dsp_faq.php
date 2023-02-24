@@ -1,0 +1,44 @@
+<meta name="description" content="Frequently asked questions about Firsthand Technology Value Fund">
+<title>Frequently Asked Questions</title>
+<div id="content" class="6u important(collapse)">
+	<header>
+    <h2>Frequently Asked Questions</h2>
+    	<p class="subtitle">&nbsp;</p>
+    </header>    
+    
+    <h3>How Many Shares Are Outstanding?</h3>
+    <p>As of September 30, 2019, there were 7,178,770 shares of common stock outstanding.</p>
+
+
+    <h3>What Is the Difference Between NAV and Price?</h3>
+    <p>The NAV (also called the "book value") is calculated by the Fund, and represents the value of the portfolio based on the fair market value of the portfolio holdings. The price, on the other hand, is the value of the Fund's common stock in the marketplace. The price may be above or below the NAV (known as trading at a "premium" or a "discount" to NAV, respectively), and represents the market value of the Fund.</p>
+ 
+    
+    <h3>What Types of Investments Can the Fund Make?</h3>
+    <p>Firsthand Technology Value Fund, Inc. must invest at least 70% of its assets in "eligible securities," which include private venture capital companies, public companies with market capitalizations less than $250 million, and government securities; and it may invest 100% of its assets in illiquid securities.<br /><br />Firsthand Technology Value Fund, Inc. will release its portfolio in its quarterly filing of Form 10-Q (and annually on Form 10-K) with the SEC, which will be available on our site upon filing. A description of some of the fund's current holdings can be found here (link to portfolio page). As part of the quarterly Form 10-Q filing, the fund will announce its NAV as of the most-recent quarter end.</p>
+  
+    
+    <h3>How Do I Trade Shares?</h3>
+    <p>Shares of closed-end funds trade on stock exchanges such as the NASDAQ Global Market, and are bought and sold like stocks. You may purchase or sell shares of Firsthand Technology Value Fund through your broker or, if your shares are held directly with the Fund, you may sell shares by contacting Computershare at 1.800.331.1710.</p>
+ 
+    
+    <h3>What Are Limit Orders?</h3>
+    <p> Because the price of a closed-end fund fluctuates throughout the trading day, limit orders are often used when buying and selling closed-end funds on the secondary market. A limit order is one in which you place a limit on the amount you are willing to pay or receive for buying or selling a share. So, for example, if a closed-end fund's current share price is listed at $30 and you wish to sell your shares, you can enter a lower limit, such as $28, on your sell price. That means that your broker will only sell your shares if he can get $28 or more per share on the open market. If no buyer is willing to pay that price, the order will not be filled.<br /><br />Similarly, if you wish to purchase shares of a closed-end fund, you may wish to enter an upper limit. So, continuing with the current example, you might decide on a $32 upper limit on a purchase order, which means that if your broker can find the shares for $32 or less, he will fill the order; otherwise the order will not be filled. Information on how to place trades for Firsthand Technology Value Fund, Inc. can be found <a href="index.php?fuseaction=invest.trades">here</a>.</p>
+ 
+    
+    <h3>How do I Get Reports About the Fund?</h3>
+    <p>Like open-end funds, closed-end funds file periodic financial reports with the SEC. Specifically, closed-end funds file Form 10-Q on a quarterly basis and Form 10-K on an annual basis. These reports are filed within 45 days and 90 days, respectively, of the end of each reporting period. Annual reports will be mailed to shareholders and both quarterly and annual reports will be available on this website.</p>
+    
+
+    <h3>How Do I Get Statements/Trade Confirmations?</h3>
+    <p>If you hold shares of Firsthand Technology Value Fund, Inc. through your broker, you will receive statements and trade confirmations from that broker. If you hold shares of Firsthand Technology Value Fund, Inc. through the Fund directly, you will receive your confirmations directly from the Fund's transfer agent, Computershare (formerly BNY Mellon).<br /><br />For questions about your direct account, please call us at 1.800.331.1710.</p>
+ </div>   
+ <div id="sidebar2" class="3u">
+
+    <section>
+        <a class="image featured-alt"><img src="images/sidenav/email.png" /></a>
+        <header><h2>Have another question?</h2></header>
+       
+        <a href="index.php?fuseaction=press.email" class="button alt">E-mail Us</a>
+    </section>
+</div>

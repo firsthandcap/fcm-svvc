@@ -1,0 +1,22 @@
+<meta name="description" content="Fund News">
+<title>Portfolio News</title>
+	<div id="content" class="6u important(collapse)">
+	<header>
+    <h2>Portfolio News</h2>
+    <p class="subtitle">Tapad to Be Acquired by Telenor</p>
+    </header>
+	<p>On February 1, 2016, Telenor, a public company with a $24 billion market cap, announced its intention to purchase <a href="index.php?fuseaction=companies.tapad">Tapad</a> for $360 million in cash. Tapad will remain a stand-alone company and Are Traasdahl, the CEO and founder, will remain at the helm. Closing of the transaction is subject to regulatory approval and is currently expected in the first quarter of 2016.</p>
+    <p>Tapad is one of the Fund's largest investments, with a cost basis of approximately $10 million. We currently expect to realize a capital gain on the investment if the proposed transaction is completed on the announced terms. More details will be published as they become available.
+"Tapad is a prime example of the type of company we target for investment&#151;a dynamic, high-growth company with the technology to transform a global market. Telenor obviously sees the same potential and we are thrilled with this acquisition," remarked Kevin Landis, Firsthand's CEO.</p>
+<p>Tapad facilitates unified marketing to consumers across all of their related devices&#151;including smartphones, tablets, computers, and connected TVs.  For 2015, the company is expected to report revenues of $57 million, with growth of  70%, compared to 2014. Today, Tapad's technology is employed by more than 160 Fortune 500 brands.</p>
+
+
+
+
+</div>
+<div id="sidebar2" class="3u">
+	<section>
+        <a class="image featured-alt"><img src="images/logos/portfolio/tapad.png" /></a>
+    </section>
+<!---closing DIV is in lay file--->   
+

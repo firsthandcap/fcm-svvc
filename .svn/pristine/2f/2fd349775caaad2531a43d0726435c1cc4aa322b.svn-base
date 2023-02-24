@@ -1,0 +1,32 @@
+<meta name="description" content="Portfolio holding Hera is a satellite imaging start-up company.">
+<title>Hiku</title>
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+	
+		<header>
+        <h2>Hera Systems, Inc.</h2>
+        <p class="subtitle">0.4% of portfolio as of 9/30/16</p>
+        </header>
+        
+        <p>Hera Systems is a San Jose, California startup company developing a constellation of micro satellites in Low Earth Orbit with imaging and communications capabilities. The company's imaging satellites are designed to provide high resolution geospatial imaging and analytics, as well as a number of other remote sensors.</p>
+           <p><img src="images/companies/hera2.png" />  </p>
+        <p>Hera plans to launch a constellation of nine satellites to deliver high-resolution images and video, as well as intelligent analytics to government and commercial enterprises. In December 2015, Hera announced it had signed a licensing agreement with NASA Ames Research Center that will allow Hera to leverage NASA's technoogy to further develop its imaging system.</p>
+        <p>An interview with Hera CEO Bobby Machinski appeared in a February 2016 online issue of <a href="http://eijournal.com/print/a-new-and-different-silicon-valley-smallsat-company" target="new">Earth Imaging Journal</a>.
+      
+       <!---<p class="subheader">Video from Hiku<br /><br /> <div id="video"><iframe width="360" height="203" src="//www.youtube.com/embed/tgw-zZG3B-8" frameborder="0" allowfullscreen></iframe></div>--->
+       
+</div> 
+   
+<div id="sidebar2" class="3u">
+  <section>
+      <p><a class="image featured"><img src="images/logos/portfolio/hera.png" /></a></p>
+      <header><h2>Connect With Hera</h2></header>
+      <p><a href="http://www.herasys.com/" target="new">www.herasys.com/</a></p>    
+    <ul class="social">
+          <li><a href="https://twitter.com/herasystemsinc" target="new"><img src="images/buttons/twitter.png" /></a>
+         </li>
+      </ul>
+      
+  </section>
+<!---closing DIV in lay_companies--->

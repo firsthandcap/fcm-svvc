@@ -1,0 +1,44 @@
+<meta name="description" content="Portfolio holding Hightail offers cloud storage to businesses.">
+<title>Hightail</title>
+
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+	
+		<header>
+        <h2>Hightail, Inc.</h2>
+        <p class="subtitle">5.7% of portfolio as of 12/31/16</p>
+        </header>
+        
+        <p>Hightail (formerly YouSendIt) offers online content collaboration tools that enable creative professionals to share, manage, and track feedback on video, graphic, print, image, and other creative content. The company's objective for its Hightail Spaces service is to replace email as the collaboration tool of choice for creative professionals. Hightail Spaces allows users to share content across PCs (Windows and Mac) and mobile devices, with native apps for both iOS and Android operating systems. </p>
+
+ <p>The market for online file storage and sharing has become commoditized in recent years, with major players including Microsoft, Google, Amazon, and Box competing primarily on the basis of price. Hightail has chosen to focus on the creative professional market segment, tailoring its service to the specific collaboration needs of designers, marketers, advertising agencies, and the like.</p>
+
+ <p>Headquartered in Campbell, California, Hightail currently employs approximately 100 people and serves more than 50 million users worldwide, including professionals at 98% of Fortune 500 companies. 
+</p>
+        
+       <!---  <p class="subheader">Video from Hightail<br /><br /><div id="video"><iframe width="360" height="203" src="//www.youtube.com/embed/IvQrv-0OJXM" frameborder="0" allowfullscreen></iframe></div>--->
+	
+</div> 
+   
+<div id="sidebar2" class="3u">
+  <section>    
+   <p><a class="image featured"><img src="images/logos/portfolio/hightail.png" /></a></p>
+      <h2>Recent Hightail Blogs</h2>
+      <ul class="style1">
+            <li><a href="http://blog.hightail.com/give-feedback-creative-work/" target="new">How to Give Feedback on Creative Work</a></li>
+          <li><a href="http://blog.hightail.com/debugging-techs-gender-gap-sustainable-future/" target="new">Debugging Tech's Gender Gap</a></li>
+        
+      </ul> 
+  </section>
+  <section>
+     
+      <header><h2>Connect With Hightail</h2></header>
+      <p><a href="https://www.hightail.com/" target="new">www.hightail.com</a></p></header>
+      <ul class="social">
+          <li><a href="https://www.facebook.com/HightailHQ" target="new"><img src="images/buttons/facebook.png" /></a></li>
+          <li><a href="https://twitter.com/HightailHQ" target="new"><img src="images/buttons/twitter.png" /></a></li>
+          <li><a href="https://www.youtube.com/user/hightailvideo" target="new"><img src="images/buttons/youtube.png" /></a></li>
+      </ul>
+  </section>
+<!---closing DIV in lay_companies--->

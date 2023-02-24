@@ -1,0 +1,42 @@
+<meta name="description" content="Portfolio holding Cloudera develops Hadoop-based software.">
+<title>Cloudera, Inc.</title>
+
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+	
+    <header>
+    <h2>Cloudera, Inc.</h2>
+    <p class="subtitle">0.4% of portfolio as of 3/31/16</p>
+    </header>
+        
+    <p>Cloudera is a leader in "big data" software, or software that is used to store, process, and analyze extremely large sets of data. The company's software platform is based on Apache Hadoop, which is open source software designed to handle the avalanche of data that is being created and stored today. Cloudera's Chief Architect is Doug Cutting, one of two co-creators of Haddop. Instead of relying on expensive, proprietary hardware and different systems to store and process data, Hadoop enables distributed parallel process of huge amounts of data across inexpensive, industry standard servers that both store and process data, and can scale without limits.</p>
+<h3>Hadoop Market Size</h3>
+<p>The size of the big data technology market is huge and growing rapidly. A recent study by market research firm IDC forecast the worldwide big data technology and services market to be more than $48.6 billion by 2019, with a compound annual growth of 23.1% between 2014 and 2019.</p>
+<h3>Cloudera Business Metrics</h3>
+<p>Cloudera recently reported that total revenues for its 2015 fiscal year (ended January 31, 2015) were in excess of $100 million. This figure is more than double the $46 million in calendar year 2014 revenues reported by publicly-traded Hortonworks (NASDAQ: HDP), one of Cloudera's largest competitors in the Hadoop market. During fiscal 2015 Cloudera's subscription software revenue grew more than 100%, and enterprise subscription software customers grew by more than 85% to 525. Cloudera's current customers include Disney, eBay, Experian, Master Card, Samsung, and Western Union.</p>
+    <div id="video"><iframe width="550" height="309" src="https://www.youtube.com/embed/MU_q0lWcTU0?showinfo=0" frameborder="0" allowfullscreen></iframe></div>
+   
+</div> 
+   
+<div id="sidebar2" class="3u">
+
+   <section>    
+   <p><a class="image featured"><img src="images/logos/portfolio/cloudera.png" /></a></p>
+      <h2>Recent Cloudera Blogs</h2>
+      <ul class="style1">
+          <li><a href="http://vision.cloudera.com/big-data-governance-bridging-the-gap-between-mainframe-and-apache-hadoop/" target="new">Big Data Governance</a></li>
+          <li><a href="http://vision.cloudera.com/turning-big-data-into-insights-and-actions-using-cloudera/" target="new">Turning Big Data Into Insights</a></li>
+         
+      </ul> 
+  </section>
+  <section>
+      <header><h2>Connect With Cloudera</h2></header>
+      <p><a href="http://www.cloudera.com/" target="new">www.cloudera.com</a></p>
+      <ul class="social">
+          <li><a href="https://www.facebook.com/cloudera" target="new"><img src="images/buttons/facebook.png" /></a></li>
+          <li><a href="https://twitter.com/cloudera" target="new"><img src="images/buttons/twitter.png" /></a></li>
+          <li><a href="https://www.youtube.com/user/clouderahadoop" target="new"><img src="images/buttons/youtube.png" /></a></li>
+      </ul>
+  </section>
+<!---closing DIV in lay_fund--->

@@ -1,0 +1,30 @@
+<meta name="description" content="Portfolio holding Lam Research is a semiconductor equipment manufacturer.">
+<title>Lam Research</title>
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+	
+    <header>
+    <h2>Lam Research, Inc.</h2>
+    <p class="subtitle">3.7% of portfolio as of 3/31/15</p>
+    </header>
+
+    <p>Lam Research (LRCX) designs and manufactures market-leading semiconductor wafer fabrication equipment and services for use in the manufacture integrated circuits. Its products are integral to several steps in the wafer production lifecycle, including thin-film deposition, plasma etch, photoresist strip, and wafer cleaning.</p>
+    
+    <!---<p class="subheader">Video from Lam Research<br /><br /><div id="video"><iframe width="360" height="203" src="https://www.youtube.com/embed/AAr4XjGQBlI" frameborder="0" allowfullscreen></iframe></div>--->
+    
+</div> 
+
+<div id="sidebar2" class="3u">
+  <section>
+      <p><a class="image featured"><img src="images/logos/portfolio/lam.png" /></a></p>
+      <header><h2>Connect With Lam Research</h2></header>
+      <p><a href="https://www.lamresearch.com/" target="new">www.lamresearch.com</a></p></header>
+      <ul class="social">
+          <li><a href="https://www.facebook.com/LamResearchCorporation?_rdr" target="new" class="icon fa-facebook-official"><span class="label">Facebook</span></a></li>
+          <li><a href="https://twitter.com/LamResearch" target="new" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="https://www.youtube.com/user/LamResearchCorp" target="new" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
+      </ul>
+  </section>
+<!---closing DIV in lay_companies--->
+        

@@ -1,0 +1,38 @@
+<meta name="description" content="Kelvin Leung is Firsthand's General Counsel">
+<title>Kelvin Leung</title>
+<!-- Content -->
+    <header>
+    <h2>Kelvin Leung</h2>
+    <p class="subtitle">General Counsel</p>
+    </header>
+    <img class="image left" src="images/people/kelvin.png"><p>In addition to his responsibility for financial and legal issues for Firsthand's Venture Capital practice, Kelvin serves as Firsthand's general counsel.</p>
+    <p> Kelvin joined the Firsthand team in 2001. Earlier in his career, he worked for Paul, Hastings, Janofsky &amp; Walker LLP and Heller Ehrman LLP, where he maintained a corporate and securities law practice focused on private companies and investment funds. Kelvin has represented numerous private and public companies in equity financing and M&A transactions. He has extensive experience advising U.S., Asian, and European venture capital funds, mutual funds, and hedge funds on formation and operational issues.</p>
+    <p>Kelvin Leung received his B.A. in Accounting and his M.A. in Tax from the University of Wisconsin. He received his J.D. from the University of Minnesota.</p>
+</div>
+<!-- Sidebar -->
+<div id="sidebar2" class="3u">
+	<section>
+        <ul class="style2">
+            <li class="first">
+                <a href="index.php?fuseaction=about.kevin" class="image left"><img src="images/people/kevin1.png"></a>
+                <h3><a href="index.php?fuseaction=about.kevin">Kevin Landis</a></h3>
+                <p>CEO and Chief Investment Officer</p>
+            </li>
+            <li>
+                <a href="index.php?fuseaction=about.greg" class="image left"><img src="images/people/greg1.png"></a>
+                <h3><a href="index.php?fuseaction=about.greg">Greg Sheppard</a></h3>
+                <p>Director of Research</p>
+            </li>
+            <li>
+                <a href="index.php?fuseaction=about.phil" class="image left"><img src="images/people/phil1.png"></a>
+                <h3><a href="index.php?fuseaction=about.phil">Phil Mosakowski</a></h3>
+                <p>VP, Business Development</p>
+            </li>
+            <li>
+                <a class="image left"><img src="images/people/kelvin2.png"></a>
+                <h3>Kelvin Leung</h3>
+                <p>General Counsel</p>
+            </li>
+        </ul>
+    </section>
+<!---closing DIV is in lay file--->                          

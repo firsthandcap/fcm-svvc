@@ -1,0 +1,31 @@
+<meta name="description" content="Portfolio holding Aliphcom does business as Jawbone and develops activity-tracking wristbands.">
+<title>Gilt Groupe</title>
+
+<div id="content" class="6u important(collapse)">
+
+<!-- Content -->
+	
+    <header>
+    <h2>Gilt Groupe, Inc.</h2>
+    <p class="subtitle">0.2% of portfolio as of 12/31/15</p>
+    </header>
+    
+    <p>Gilt Groupe is a leader in online "flash sales" of designer merchandise at discount prices. Members receive access to designer products ranging from clothing and handbags to furniture, restaurants and events. Gilt Groupe pioneered the "flash sale" of designer merchandise and has successfully extended its brand from designer clothing to shoes, jewelry, accessories, home furnishings, and local daily deals.</p>
+   <p> On January 7, 2016, Hudson's Bay Company announced that it had entered into a definitive agreement to purchase Gilt Groupe Holdings, Inc. for $250 million in cash. On February 1, 2016, the company announced that the transaction had been completed. The Fund currently expects to receive approximately $1.7514 per share of common stock it holds, and it may receive additional consideration at a later date if certain conditions are met.</p>
+    
+   <!---<p class="subheader">Video from Gilt Groupe<br /><br /></p><div id="video"><iframe width="360" height="203" src="//www.youtube.com/embed/nwkQNyf-Amw?list=UUs8I600Bb5GZ-0oTqjm5ZWA" frameborder="0" allowfullscreen></iframe></div>--->
+	
+</div> 
+<div id="sidebar2" class="3u">
+  <section>
+      <p><a class="image featured"><img src="images/logos/portfolio/gilt.png" /></a></p>
+      <header><h2>Connect With Gilt Groupe</h2></header>
+      <p><a href="http://www.gilt.com/" target="new">www.gilt.com</a></p>
+      <ul class="social">
+          <li><a href="https://www.facebook.com/gilt" target="new"><img src="images/buttons/facebook.png" /></a></li>
+          <li><a href="https://twitter.com/Gilt" target="new"><img src="images/buttons/twitter.png" /></a></li></a></li>
+          <li><a href="https://www.youtube.com/user/GiltGroupe" target="new"><img src="images/buttons/youtube.png" /></a></li></li>
+      </ul>
+  </section>  
+ 
+<!---closing DIV in lay_companies--->
